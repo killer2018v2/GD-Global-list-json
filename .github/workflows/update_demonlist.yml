@@ -1,0 +1,43 @@
+# .github/workflows/update_demonlist.yml
+name: Ежедневное обновление Demonlist
+
+on:
+  schedule:
+    - cron: '0 21 * * *'  # каждый день в 5:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write   # 👈 дает GitHub Actions разрешение на пуш изменений
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # 👈 обязательно передаем токен
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Playwright browsers and dependencies
+        run: playwright install --with-deps
+
+      - name: Run data scraper with virtual display
+        run: xvfb-run python update_data.py
+
+      - name: Commit and push if data changed
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore(auto): 🔄 Ежедневное обновление данных Demonlist"
+          file_pattern: data/demonlist.json
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: JustKingYT1 <JustKingYT1@users.noreply.github.com>
