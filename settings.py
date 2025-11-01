@@ -1,13 +1,3 @@
-import dotenv
-import os
-
-dotenv.load_dotenv()
-
-
-# Настройки Telegram
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-ADMIN_ID = 6297290680
- 
 # --- Основные настройки ---
 BASE_URL = "https://demonlist.org"
 # Данные теперь будут храниться в папке data/
@@ -31,6 +21,6 @@ STUCK_CARD_MULTIPLE = 150
 
 
 # --- Настройки Github ---
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/justkingyt1/get_top_gd_lvls/main/data/demonlist.json"
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/НИК/НАЗВАНИЕ ПРОЕКТА/main/data/demonlist.json"
 LOCAL_DATA_PATH = "data/demonlist.json"
 
