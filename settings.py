@@ -21,6 +21,6 @@ STUCK_CARD_MULTIPLE = 150
 
 
 # --- Настройки Github ---
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/НИК/НАЗВАНИЕ ПРОЕКТА/main/data/demonlist.json"
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/killer2018v2/GD-Global-list-json/main/data/demonlist.json"
 LOCAL_DATA_PATH = "data/demonlist.json"
 
