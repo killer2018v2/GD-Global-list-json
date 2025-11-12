@@ -7090,7 +7090,10 @@
   {
     "rank": 887,
     "name": "Vertigo",
-    "link": "https://demonlist.org/classic/887"
+    "link": "https://demonlist.org/classic/887",
+    "length": "0:41",
+    "objects": 43050,
+    "version": "2.1"
   },
   {
     "rank": 888,
@@ -8183,7 +8186,10 @@
   {
     "rank": 1024,
     "name": "Phosphorus",
-    "link": "https://demonlist.org/classic/1024"
+    "link": "https://demonlist.org/classic/1024",
+    "length": "1:20",
+    "objects": 44675,
+    "version": "2.2"
   },
   {
     "rank": 1025,
@@ -8684,7 +8690,10 @@
   {
     "rank": 1087,
     "name": "Niflheim",
-    "link": "https://demonlist.org/classic/1087"
+    "link": "https://demonlist.org/classic/1087",
+    "length": "2:02",
+    "objects": 25586,
+    "version": "2.1"
   },
   {
     "rank": 1088,
@@ -11561,7 +11570,10 @@
   {
     "rank": 1447,
     "name": "night party",
-    "link": "https://demonlist.org/classic/1447"
+    "link": "https://demonlist.org/classic/1447",
+    "length": "2:03",
+    "objects": 121983,
+    "version": "2.1"
   },
   {
     "rank": 1448,
