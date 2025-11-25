@@ -202,12 +202,18 @@
   {
     "rank": 26,
     "name": "KOSETSU",
-    "link": "https://demonlist.org/classic/26"
+    "link": "https://demonlist.org/classic/26",
+    "length": "1:12",
+    "objects": 81919,
+    "version": "2.2"
   },
   {
     "rank": 27,
     "name": "Firework",
-    "link": "https://demonlist.org/classic/27"
+    "link": "https://demonlist.org/classic/27",
+    "length": "2:07",
+    "objects": 165198,
+    "version": "2.1"
   },
   {
     "rank": 28,
@@ -8275,4232 +8281,4235 @@
   },
   {
     "rank": 1036,
-    "name": "UNLEASH WHALE WHALES",
-    "link": "https://demonlist.org/classic/1036",
-    "length": "1:53",
-    "objects": 95716,
-    "version": "2.2"
-  },
-  {
-    "rank": 1037,
     "name": "Phosphorus",
-    "link": "https://demonlist.org/classic/1037",
+    "link": "https://demonlist.org/classic/1036",
     "length": "1:20",
     "objects": 44675,
     "version": "2.2"
   },
   {
-    "rank": 1038,
+    "rank": 1037,
     "name": "Agile",
-    "link": "https://demonlist.org/classic/1038",
+    "link": "https://demonlist.org/classic/1037",
     "length": "1:18",
     "objects": 24710,
     "version": "2.2"
   },
   {
-    "rank": 1039,
+    "rank": 1038,
     "name": "DIODE",
-    "link": "https://demonlist.org/classic/1039",
+    "link": "https://demonlist.org/classic/1038",
     "length": "1:35",
     "objects": 43316,
     "version": "2.2"
   },
   {
-    "rank": 1040,
+    "rank": 1039,
     "name": "PURE VALE",
-    "link": "https://demonlist.org/classic/1040",
+    "link": "https://demonlist.org/classic/1039",
     "length": "1:00",
     "objects": 66666,
     "version": "2.1"
   },
   {
-    "rank": 1041,
+    "rank": 1040,
     "name": "OBLV",
-    "link": "https://demonlist.org/classic/1041",
+    "link": "https://demonlist.org/classic/1040",
     "length": "1:04",
     "objects": 24273,
     "version": "2.1"
   },
   {
-    "rank": 1042,
+    "rank": 1041,
     "name": "wiggle water",
-    "link": "https://demonlist.org/classic/1042",
+    "link": "https://demonlist.org/classic/1041",
     "length": "1:13",
     "objects": 30150,
     "version": "2.2"
   },
   {
-    "rank": 1043,
+    "rank": 1042,
     "name": "Deflective",
-    "link": "https://demonlist.org/classic/1043",
+    "link": "https://demonlist.org/classic/1042",
     "length": "2:05",
     "objects": 185500,
     "version": "2.1"
   },
   {
-    "rank": 1044,
+    "rank": 1043,
     "name": "Xyuti",
-    "link": "https://demonlist.org/classic/1044",
+    "link": "https://demonlist.org/classic/1043",
     "length": "1:33",
     "objects": 98228,
     "version": "2.2"
   },
   {
-    "rank": 1045,
+    "rank": 1044,
     "name": "Fellow Phobia",
-    "link": "https://demonlist.org/classic/1045",
+    "link": "https://demonlist.org/classic/1044",
     "length": "4:26",
     "objects": 285066,
     "version": "2.1"
   },
   {
-    "rank": 1046,
+    "rank": 1045,
     "name": "can I have mod now",
-    "link": "https://demonlist.org/classic/1046",
+    "link": "https://demonlist.org/classic/1045",
     "length": "1:49",
     "objects": 74846,
     "version": "2.2"
   },
   {
-    "rank": 1047,
+    "rank": 1046,
     "name": "Treatment Facility",
-    "link": "https://demonlist.org/classic/1047",
+    "link": "https://demonlist.org/classic/1046",
     "length": "2:42",
     "objects": 66098,
     "version": "2.2"
   },
   {
-    "rank": 1048,
+    "rank": 1047,
     "name": "EKO",
-    "link": "https://demonlist.org/classic/1048",
+    "link": "https://demonlist.org/classic/1047",
     "length": "2:10",
     "objects": 77588,
     "version": "2.1"
   },
   {
-    "rank": 1049,
+    "rank": 1048,
     "name": "cytokinesis",
-    "link": "https://demonlist.org/classic/1049",
+    "link": "https://demonlist.org/classic/1048",
     "length": "2:14",
     "objects": 160684,
     "version": "2.1"
   },
   {
-    "rank": 1050,
+    "rank": 1049,
     "name": "Huellas En La Nieve",
-    "link": "https://demonlist.org/classic/1050",
+    "link": "https://demonlist.org/classic/1049",
     "length": "1:37",
     "objects": 30000,
     "version": "2.2"
   },
   {
-    "rank": 1051,
+    "rank": 1050,
     "name": "Complementary Cruise",
-    "link": "https://demonlist.org/classic/1051",
+    "link": "https://demonlist.org/classic/1050",
     "length": "1:03",
     "objects": 26258,
     "version": "2.1"
   },
   {
-    "rank": 1052,
+    "rank": 1051,
     "name": "Rift",
-    "link": "https://demonlist.org/classic/1052",
+    "link": "https://demonlist.org/classic/1051",
     "length": "1:08",
     "objects": 50822,
     "version": "2.2"
   },
   {
-    "rank": 1053,
+    "rank": 1052,
     "name": "Karma",
-    "link": "https://demonlist.org/classic/1053",
+    "link": "https://demonlist.org/classic/1052",
     "length": "2:57",
     "objects": 38135,
     "version": "2.1"
   },
   {
-    "rank": 1054,
+    "rank": 1053,
     "name": "Kasuigetsu",
-    "link": "https://demonlist.org/classic/1054",
+    "link": "https://demonlist.org/classic/1053",
     "length": "1:10",
     "objects": 133311,
     "version": "2.1"
   },
   {
-    "rank": 1055,
+    "rank": 1054,
     "name": "Scattered n Lost",
-    "link": "https://demonlist.org/classic/1055",
+    "link": "https://demonlist.org/classic/1054",
     "length": "1:10",
     "objects": 26323,
     "version": "2.2"
   },
   {
-    "rank": 1056,
+    "rank": 1055,
     "name": "inMind",
-    "link": "https://demonlist.org/classic/1056",
+    "link": "https://demonlist.org/classic/1055",
     "length": "2:35",
     "objects": 113377,
     "version": "2.2"
   },
   {
-    "rank": 1057,
+    "rank": 1056,
     "name": "Annihilation Nation",
-    "link": "https://demonlist.org/classic/1057",
+    "link": "https://demonlist.org/classic/1056",
     "length": "1:01",
     "objects": 104370,
     "version": "2.1"
   },
   {
-    "rank": 1058,
+    "rank": 1057,
     "name": "NeRUaL",
-    "link": "https://demonlist.org/classic/1058",
+    "link": "https://demonlist.org/classic/1057",
     "length": "1:00",
     "objects": 107498,
     "version": "2.1"
   },
   {
-    "rank": 1059,
+    "rank": 1058,
     "name": "GridLocked",
-    "link": "https://demonlist.org/classic/1059",
+    "link": "https://demonlist.org/classic/1058",
     "length": "1:40",
     "objects": 160948,
     "version": "2.1"
   },
   {
-    "rank": 1060,
+    "rank": 1059,
     "name": "Cat Planet",
-    "link": "https://demonlist.org/classic/1060",
+    "link": "https://demonlist.org/classic/1059",
     "length": "1:00",
     "objects": 35551,
     "version": "2.1"
   },
   {
-    "rank": 1061,
+    "rank": 1060,
     "name": "Snowfall Storm",
-    "link": "https://demonlist.org/classic/1061",
+    "link": "https://demonlist.org/classic/1060",
     "length": "1:33",
     "objects": 85773,
     "version": "2.1"
   },
   {
-    "rank": 1062,
+    "rank": 1061,
     "name": "Plasma Pulse III",
-    "link": "https://demonlist.org/classic/1062",
+    "link": "https://demonlist.org/classic/1061",
     "length": "1:21",
     "objects": 28532,
     "version": "2.0"
   },
   {
-    "rank": 1063,
+    "rank": 1062,
     "name": "Novalis",
-    "link": "https://demonlist.org/classic/1063",
+    "link": "https://demonlist.org/classic/1062",
     "length": "1:17",
     "objects": 50000,
     "version": "2.1"
   },
   {
-    "rank": 1064,
+    "rank": 1063,
     "name": "Inflective",
-    "link": "https://demonlist.org/classic/1064",
+    "link": "https://demonlist.org/classic/1063",
     "length": "1:13",
     "objects": 125016,
     "version": "2.1"
   },
   {
-    "rank": 1065,
+    "rank": 1064,
     "name": "OUT OF THIS WORLD",
-    "link": "https://demonlist.org/classic/1065",
+    "link": "https://demonlist.org/classic/1064",
     "length": "1:24",
     "objects": 25298,
     "version": "2.2"
   },
   {
-    "rank": 1066,
+    "rank": 1065,
     "name": "Solstice",
-    "link": "https://demonlist.org/classic/1066",
+    "link": "https://demonlist.org/classic/1065",
     "length": "1:30",
     "objects": 36604,
     "version": "2.1"
   },
   {
-    "rank": 1067,
+    "rank": 1066,
     "name": "Quarantine",
-    "link": "https://demonlist.org/classic/1067",
+    "link": "https://demonlist.org/classic/1066",
     "length": "1:12",
     "objects": 85516,
     "version": "2.1"
   },
   {
-    "rank": 1068,
+    "rank": 1067,
     "name": "Evening Star",
-    "link": "https://demonlist.org/classic/1068",
+    "link": "https://demonlist.org/classic/1067",
     "length": "1:18",
     "objects": 62596,
     "version": "2.1"
   },
   {
-    "rank": 1069,
+    "rank": 1068,
     "name": "Cloud Citadel",
-    "link": "https://demonlist.org/classic/1069",
+    "link": "https://demonlist.org/classic/1068",
     "length": "1:01",
     "objects": 84484,
     "version": "2.1"
   },
   {
-    "rank": 1070,
+    "rank": 1069,
     "name": "Tech X",
-    "link": "https://demonlist.org/classic/1070",
+    "link": "https://demonlist.org/classic/1069",
     "length": "1:14",
     "objects": 129765,
     "version": "2.2"
   },
   {
-    "rank": 1071,
+    "rank": 1070,
     "name": "IMOISTAR",
-    "link": "https://demonlist.org/classic/1071",
+    "link": "https://demonlist.org/classic/1070",
     "length": "1:23",
     "objects": 89157,
     "version": "2.2"
   },
   {
-    "rank": 1072,
+    "rank": 1071,
     "name": "Sigma Interface",
-    "link": "https://demonlist.org/classic/1072",
+    "link": "https://demonlist.org/classic/1071",
     "length": "1:11",
     "objects": 73588,
     "version": "2.1"
   },
   {
-    "rank": 1073,
+    "rank": 1072,
     "name": "GewErbiX",
-    "link": "https://demonlist.org/classic/1073",
+    "link": "https://demonlist.org/classic/1072",
     "length": "1:21",
     "objects": 71400,
     "version": "2.1"
   },
   {
-    "rank": 1074,
+    "rank": 1073,
     "name": "Triple Six",
-    "link": "https://demonlist.org/classic/1074",
+    "link": "https://demonlist.org/classic/1073",
     "length": "1:46",
     "objects": 194188,
     "version": "2.1"
   },
   {
-    "rank": 1075,
+    "rank": 1074,
     "name": "THE DRIP TRIP",
-    "link": "https://demonlist.org/classic/1075",
+    "link": "https://demonlist.org/classic/1074",
     "length": "1:03",
     "objects": 19031,
     "version": "2.1"
   },
   {
-    "rank": 1076,
+    "rank": 1075,
     "name": "EMPTINESS",
-    "link": "https://demonlist.org/classic/1076",
+    "link": "https://demonlist.org/classic/1075",
     "length": "1:20",
     "objects": 128541,
     "version": "2.1"
   },
   {
-    "rank": 1077,
+    "rank": 1076,
     "name": "Brain Power",
-    "link": "https://demonlist.org/classic/1077",
+    "link": "https://demonlist.org/classic/1076",
     "length": "2:40",
     "objects": 287266,
     "version": "2.2"
   },
   {
-    "rank": 1078,
+    "rank": 1077,
     "name": "Tesseract Force",
-    "link": "https://demonlist.org/classic/1078",
+    "link": "https://demonlist.org/classic/1077",
     "length": "1:29",
     "objects": 46809,
     "version": "2.1"
   },
   {
-    "rank": 1079,
+    "rank": 1078,
     "name": "Digital Disarray",
-    "link": "https://demonlist.org/classic/1079",
+    "link": "https://demonlist.org/classic/1078",
     "length": "1:56",
     "objects": 43326,
     "version": "2.1"
   },
   {
-    "rank": 1080,
+    "rank": 1079,
     "name": "Manic Machine",
-    "link": "https://demonlist.org/classic/1080",
+    "link": "https://demonlist.org/classic/1079",
     "length": "1:06",
     "objects": 31018,
     "version": "2.1"
   },
   {
-    "rank": 1081,
+    "rank": 1080,
     "name": "N0",
-    "link": "https://demonlist.org/classic/1081",
+    "link": "https://demonlist.org/classic/1080",
     "length": "1:48",
     "objects": 97968,
     "version": "2.1"
   },
   {
-    "rank": 1082,
+    "rank": 1081,
     "name": "COMMENDATION",
-    "link": "https://demonlist.org/classic/1082",
+    "link": "https://demonlist.org/classic/1081",
     "length": "1:38",
     "objects": 19152,
     "version": "2.2"
   },
   {
-    "rank": 1083,
+    "rank": 1082,
     "name": "Stasis",
-    "link": "https://demonlist.org/classic/1083",
+    "link": "https://demonlist.org/classic/1082",
     "length": "1:17",
     "objects": 36713,
     "version": "2.2"
   },
   {
-    "rank": 1084,
+    "rank": 1083,
     "name": "1330X",
-    "link": "https://demonlist.org/classic/1084",
+    "link": "https://demonlist.org/classic/1083",
     "length": "1:06",
     "objects": 80665,
     "version": "2.1"
   },
   {
-    "rank": 1085,
+    "rank": 1084,
     "name": "No Ember",
-    "link": "https://demonlist.org/classic/1085",
+    "link": "https://demonlist.org/classic/1084",
     "length": "1:00",
     "objects": 37623,
     "version": "2.1"
   },
   {
-    "rank": 1086,
+    "rank": 1085,
     "name": "Esencia",
-    "link": "https://demonlist.org/classic/1086",
+    "link": "https://demonlist.org/classic/1085",
     "length": "3:41",
     "objects": 235984,
     "version": "2.1"
   },
   {
-    "rank": 1087,
+    "rank": 1086,
     "name": "QDYNAMIX",
-    "link": "https://demonlist.org/classic/1087",
+    "link": "https://demonlist.org/classic/1086",
     "length": "1:13",
     "objects": 68783,
     "version": "2.1"
   },
   {
-    "rank": 1088,
+    "rank": 1087,
     "name": "All In",
-    "link": "https://demonlist.org/classic/1088",
+    "link": "https://demonlist.org/classic/1087",
     "length": "1:14",
     "objects": 58787,
     "version": "2.2"
   },
   {
-    "rank": 1089,
+    "rank": 1088,
     "name": "Godspeed",
-    "link": "https://demonlist.org/classic/1089",
+    "link": "https://demonlist.org/classic/1088",
     "length": "1:30",
     "objects": 103185,
     "version": "2.2"
   },
   {
-    "rank": 1090,
+    "rank": 1089,
     "name": "Pessimism",
-    "link": "https://demonlist.org/classic/1090",
+    "link": "https://demonlist.org/classic/1089",
     "length": "1:12",
     "objects": 67382,
     "version": "2.2"
   },
   {
-    "rank": 1091,
+    "rank": 1090,
     "name": "Empress Blades",
-    "link": "https://demonlist.org/classic/1091",
+    "link": "https://demonlist.org/classic/1090",
     "length": "1:20",
     "objects": 76470,
     "version": "2.2"
   },
   {
-    "rank": 1092,
+    "rank": 1091,
     "name": "Eternal Dreams",
-    "link": "https://demonlist.org/classic/1092",
+    "link": "https://demonlist.org/classic/1091",
     "length": "1:18",
     "objects": 48079,
     "version": "2.2"
   },
   {
-    "rank": 1093,
+    "rank": 1092,
     "name": "Existentia",
-    "link": "https://demonlist.org/classic/1093",
+    "link": "https://demonlist.org/classic/1092",
     "length": "1:22",
     "objects": 102909,
     "version": "2.2"
   },
   {
-    "rank": 1094,
+    "rank": 1093,
     "name": "APEX",
-    "link": "https://demonlist.org/classic/1094",
+    "link": "https://demonlist.org/classic/1093",
     "length": "1:23",
     "objects": 88186,
     "version": "2.1"
   },
   {
-    "rank": 1095,
+    "rank": 1094,
     "name": "Agen Wida",
-    "link": "https://demonlist.org/classic/1095",
+    "link": "https://demonlist.org/classic/1094",
     "length": "1:18",
     "objects": 89738,
     "version": "2.1"
   },
   {
-    "rank": 1096,
+    "rank": 1095,
     "name": "laranja azul rosa",
-    "link": "https://demonlist.org/classic/1096",
+    "link": "https://demonlist.org/classic/1095",
     "length": "1:00",
     "objects": 10584,
     "version": "2.1"
   },
   {
-    "rank": 1097,
+    "rank": 1096,
     "name": "Disentombed",
-    "link": "https://demonlist.org/classic/1097",
+    "link": "https://demonlist.org/classic/1096",
     "length": "4:26",
     "objects": 382230,
     "version": "2.1"
   },
   {
-    "rank": 1098,
+    "rank": 1097,
     "name": "Maybe Possibly Thing",
-    "link": "https://demonlist.org/classic/1098",
+    "link": "https://demonlist.org/classic/1097",
     "length": "1:23",
     "objects": 68152,
     "version": "2.1"
   },
   {
-    "rank": 1099,
+    "rank": 1098,
     "name": "Momentary Affection",
-    "link": "https://demonlist.org/classic/1099",
+    "link": "https://demonlist.org/classic/1098",
     "length": "1:01",
     "objects": 25329,
     "version": "2.2"
   },
   {
-    "rank": 1100,
+    "rank": 1099,
     "name": "Runtime Error",
-    "link": "https://demonlist.org/classic/1100",
+    "link": "https://demonlist.org/classic/1099",
     "length": "1:22",
     "objects": 49610,
     "version": "2.2"
   },
   {
-    "rank": 1101,
+    "rank": 1100,
     "name": "Niflheim",
-    "link": "https://demonlist.org/classic/1101",
+    "link": "https://demonlist.org/classic/1100",
     "length": "2:02",
     "objects": 25586,
     "version": "2.1"
   },
   {
-    "rank": 1102,
+    "rank": 1101,
     "name": "ChopStep",
-    "link": "https://demonlist.org/classic/1102",
+    "link": "https://demonlist.org/classic/1101",
     "length": "1:03",
     "objects": 126009,
     "version": "2.1"
   },
   {
-    "rank": 1103,
+    "rank": 1102,
     "name": "Cold Level Go BRRRR",
-    "link": "https://demonlist.org/classic/1103",
+    "link": "https://demonlist.org/classic/1102",
     "length": "1:12",
     "objects": 37792,
     "version": "2.2"
   },
   {
-    "rank": 1104,
+    "rank": 1103,
     "name": "Paranoid Android",
-    "link": "https://demonlist.org/classic/1104",
+    "link": "https://demonlist.org/classic/1103",
     "length": "5:42",
     "objects": 112397,
     "version": "2.2"
   },
   {
-    "rank": 1105,
+    "rank": 1104,
     "name": "PanaSonic",
-    "link": "https://demonlist.org/classic/1105",
+    "link": "https://demonlist.org/classic/1104",
     "length": "2:43",
     "objects": 85061,
     "version": "2.1"
   },
   {
-    "rank": 1106,
+    "rank": 1105,
     "name": "Novasphere",
-    "link": "https://demonlist.org/classic/1106",
+    "link": "https://demonlist.org/classic/1105",
     "length": "2:15",
     "objects": 236338,
     "version": "2.1"
   },
   {
-    "rank": 1107,
+    "rank": 1106,
     "name": "Ninobytte",
-    "link": "https://demonlist.org/classic/1107",
+    "link": "https://demonlist.org/classic/1106",
     "length": "1:12",
     "objects": 60905,
     "version": "2.1"
   },
   {
-    "rank": 1108,
+    "rank": 1107,
     "name": "U235",
-    "link": "https://demonlist.org/classic/1108",
+    "link": "https://demonlist.org/classic/1107",
     "length": "1:00",
     "objects": 35899,
     "version": "2.1"
   },
   {
-    "rank": 1109,
+    "rank": 1108,
     "name": "BRAINROT",
-    "link": "https://demonlist.org/classic/1109",
+    "link": "https://demonlist.org/classic/1108",
     "length": "1:39",
     "objects": 89624,
     "version": "2.2"
   },
   {
-    "rank": 1110,
+    "rank": 1109,
     "name": "A2Marbl",
-    "link": "https://demonlist.org/classic/1110",
+    "link": "https://demonlist.org/classic/1109",
     "length": "2:04",
     "objects": 230303,
     "version": "2.1"
   },
   {
-    "rank": 1111,
+    "rank": 1110,
     "name": "Samurai Sword",
-    "link": "https://demonlist.org/classic/1111",
+    "link": "https://demonlist.org/classic/1110",
     "length": "2:47",
     "objects": 16138,
     "version": "2.2"
   },
   {
-    "rank": 1112,
+    "rank": 1111,
     "name": "limitless",
-    "link": "https://demonlist.org/classic/1112",
+    "link": "https://demonlist.org/classic/1111",
     "length": "1:36",
     "objects": 72285,
     "version": "2.1"
   },
   {
-    "rank": 1113,
+    "rank": 1112,
     "name": "AUX cord",
-    "link": "https://demonlist.org/classic/1113",
+    "link": "https://demonlist.org/classic/1112",
     "length": "1:07",
     "objects": 39582,
     "version": "2.1"
   },
   {
-    "rank": 1114,
+    "rank": 1113,
     "name": "Shattered Lens",
-    "link": "https://demonlist.org/classic/1114",
+    "link": "https://demonlist.org/classic/1113",
     "length": "1:14",
     "objects": 35175,
     "version": "2.2"
   },
   {
-    "rank": 1115,
+    "rank": 1114,
     "name": "NO MORE",
-    "link": "https://demonlist.org/classic/1115",
+    "link": "https://demonlist.org/classic/1114",
     "length": "3:58",
     "objects": 100000,
     "version": "2.2"
   },
   {
-    "rank": 1116,
+    "rank": 1115,
     "name": "Mirage",
-    "link": "https://demonlist.org/classic/1116",
+    "link": "https://demonlist.org/classic/1115",
     "length": "2:10",
     "objects": 217768,
     "version": "2.1"
   },
   {
-    "rank": 1117,
+    "rank": 1116,
     "name": "SorryForPartyRocking",
-    "link": "https://demonlist.org/classic/1117",
+    "link": "https://demonlist.org/classic/1116",
     "length": "1:32",
     "objects": 85331,
     "version": "2.1"
   },
   {
-    "rank": 1118,
+    "rank": 1117,
     "name": "Shape of the Sun",
-    "link": "https://demonlist.org/classic/1118",
+    "link": "https://demonlist.org/classic/1117",
     "length": "1:37",
     "objects": 53292,
     "version": "2.1"
   },
   {
-    "rank": 1119,
+    "rank": 1118,
     "name": "court circuit",
-    "link": "https://demonlist.org/classic/1119",
+    "link": "https://demonlist.org/classic/1118",
     "length": "2:26",
     "objects": 108521,
     "version": "2.1"
   },
   {
-    "rank": 1120,
+    "rank": 1119,
     "name": "Ch1ll Puddy",
-    "link": "https://demonlist.org/classic/1120",
+    "link": "https://demonlist.org/classic/1119",
     "length": "1:26",
     "objects": 26473,
     "version": "2.1"
   },
   {
-    "rank": 1121,
+    "rank": 1120,
     "name": "BOOST",
-    "link": "https://demonlist.org/classic/1121",
+    "link": "https://demonlist.org/classic/1120",
     "length": "2:28",
     "objects": 214690,
     "version": "2.2"
   },
   {
-    "rank": 1122,
+    "rank": 1121,
     "name": "TORNADO",
-    "link": "https://demonlist.org/classic/1122",
+    "link": "https://demonlist.org/classic/1121",
     "length": "1:08",
     "objects": 151469,
     "version": "2.1"
   },
   {
-    "rank": 1123,
+    "rank": 1122,
     "name": "FURY TECH",
-    "link": "https://demonlist.org/classic/1123",
+    "link": "https://demonlist.org/classic/1122",
     "length": "1:01",
     "objects": 111958,
     "version": "2.2"
   },
   {
-    "rank": 1124,
+    "rank": 1123,
     "name": "Gaming 35",
-    "link": "https://demonlist.org/classic/1124",
+    "link": "https://demonlist.org/classic/1123",
     "length": "1:04",
     "objects": 97236,
     "version": "2.2"
   },
   {
-    "rank": 1125,
+    "rank": 1124,
     "name": "SORRYNOTSORRY",
-    "link": "https://demonlist.org/classic/1125",
+    "link": "https://demonlist.org/classic/1124",
     "length": "1:37",
     "objects": 42355,
     "version": "2.2"
   },
   {
-    "rank": 1126,
+    "rank": 1125,
     "name": "FUTURE DEMON MACHINE",
-    "link": "https://demonlist.org/classic/1126",
+    "link": "https://demonlist.org/classic/1125",
     "length": "1:06",
     "objects": 24863,
     "version": "2.1"
   },
   {
-    "rank": 1127,
+    "rank": 1126,
     "name": "Audio Extraction",
-    "link": "https://demonlist.org/classic/1127",
+    "link": "https://demonlist.org/classic/1126",
     "length": "1:52",
     "objects": 43393,
     "version": "2.1"
   },
   {
-    "rank": 1128,
+    "rank": 1127,
     "name": "PixelSonic",
-    "link": "https://demonlist.org/classic/1128",
+    "link": "https://demonlist.org/classic/1127",
     "length": "1:32",
     "objects": 64045,
     "version": "2.2"
   },
   {
-    "rank": 1129,
+    "rank": 1128,
     "name": "Eon",
-    "link": "https://demonlist.org/classic/1129",
+    "link": "https://demonlist.org/classic/1128",
     "length": "55:22",
     "objects": 146292,
     "version": "2.2"
   },
   {
-    "rank": 1130,
+    "rank": 1129,
     "name": "Office Job",
-    "link": "https://demonlist.org/classic/1130",
+    "link": "https://demonlist.org/classic/1129",
     "length": "1:04",
     "objects": 39699,
     "version": "2.2"
   },
   {
-    "rank": 1131,
+    "rank": 1130,
     "name": "Disastrous Downpour",
-    "link": "https://demonlist.org/classic/1131",
+    "link": "https://demonlist.org/classic/1130",
     "length": "1:21",
     "objects": 199670,
     "version": "2.1"
   },
   {
-    "rank": 1132,
+    "rank": 1131,
     "name": "Twilight Spire",
-    "link": "https://demonlist.org/classic/1132",
+    "link": "https://demonlist.org/classic/1131",
     "length": "1:07",
     "objects": 72923,
     "version": "2.2"
   },
   {
-    "rank": 1133,
+    "rank": 1132,
     "name": "nowdead",
-    "link": "https://demonlist.org/classic/1133",
+    "link": "https://demonlist.org/classic/1132",
     "length": "1:04",
     "objects": 30053,
     "version": "2.1"
   },
   {
-    "rank": 1134,
+    "rank": 1133,
     "name": "Endurance",
-    "link": "https://demonlist.org/classic/1134",
+    "link": "https://demonlist.org/classic/1133",
     "length": "4:37",
     "objects": 82695,
     "version": "2.1"
   },
   {
-    "rank": 1135,
+    "rank": 1134,
     "name": "ENTITY",
-    "link": "https://demonlist.org/classic/1135",
+    "link": "https://demonlist.org/classic/1134",
     "length": "1:04",
     "objects": 89309,
     "version": "2.1"
   },
   {
-    "rank": 1136,
+    "rank": 1135,
     "name": "Twisted Tranquility",
-    "link": "https://demonlist.org/classic/1136",
+    "link": "https://demonlist.org/classic/1135",
     "length": "2:20",
     "objects": 64121,
     "version": "2.1"
   },
   {
-    "rank": 1137,
+    "rank": 1136,
     "name": "M A N I X",
-    "link": "https://demonlist.org/classic/1137",
+    "link": "https://demonlist.org/classic/1136",
     "length": "1:07",
     "objects": 21450,
     "version": "2.0"
   },
   {
-    "rank": 1138,
+    "rank": 1137,
     "name": "BROWNOIX",
-    "link": "https://demonlist.org/classic/1138",
+    "link": "https://demonlist.org/classic/1137",
     "length": "1:13",
     "objects": 81983,
     "version": "2.1"
   },
   {
-    "rank": 1139,
+    "rank": 1138,
     "name": "Unearthed",
-    "link": "https://demonlist.org/classic/1139",
+    "link": "https://demonlist.org/classic/1138",
     "length": "3:24",
     "objects": 200378,
     "version": "2.1"
   },
   {
-    "rank": 1140,
+    "rank": 1139,
     "name": "Venom Valley",
-    "link": "https://demonlist.org/classic/1140",
+    "link": "https://demonlist.org/classic/1139",
     "length": "1:20",
     "objects": 37208,
     "version": "2.2"
   },
   {
-    "rank": 1141,
+    "rank": 1140,
     "name": "Grill Kill",
-    "link": "https://demonlist.org/classic/1141",
+    "link": "https://demonlist.org/classic/1140",
     "length": "1:12",
     "objects": 72836,
     "version": "2.1"
   },
   {
-    "rank": 1142,
+    "rank": 1141,
     "name": "Synergy",
-    "link": "https://demonlist.org/classic/1142",
+    "link": "https://demonlist.org/classic/1141",
     "length": "2:44",
     "objects": 143649,
     "version": "2.1"
   },
   {
-    "rank": 1143,
+    "rank": 1142,
     "name": "Betelgeuse",
-    "link": "https://demonlist.org/classic/1143",
+    "link": "https://demonlist.org/classic/1142",
     "length": "1:35",
     "objects": 151076,
     "version": "2.1"
   },
   {
-    "rank": 1144,
+    "rank": 1143,
     "name": "imaginary flowers",
-    "link": "https://demonlist.org/classic/1144",
+    "link": "https://demonlist.org/classic/1143",
     "length": "1:02",
     "objects": 27519,
     "version": "2.2"
   },
   {
-    "rank": 1145,
+    "rank": 1144,
     "name": "Concaved Memories",
-    "link": "https://demonlist.org/classic/1145",
+    "link": "https://demonlist.org/classic/1144",
     "length": "1:47",
     "objects": 101177,
     "version": "2.1"
   },
   {
-    "rank": 1146,
+    "rank": 1145,
     "name": "Wind Storm",
-    "link": "https://demonlist.org/classic/1146",
+    "link": "https://demonlist.org/classic/1145",
     "length": "1:30",
     "objects": 77346,
     "version": "2.1"
   },
   {
-    "rank": 1147,
+    "rank": 1146,
     "name": "Empyrean",
-    "link": "https://demonlist.org/classic/1147",
+    "link": "https://demonlist.org/classic/1146",
     "length": "1:49",
     "objects": 132478,
     "version": "2.1"
   },
   {
-    "rank": 1148,
+    "rank": 1147,
     "name": "Mystical Corridor",
-    "link": "https://demonlist.org/classic/1148",
+    "link": "https://demonlist.org/classic/1147",
     "length": "1:39",
     "objects": 79473,
     "version": "2.1"
   },
   {
-    "rank": 1149,
+    "rank": 1148,
     "name": "TREMORS",
-    "link": "https://demonlist.org/classic/1149",
+    "link": "https://demonlist.org/classic/1148",
     "length": "1:05",
     "objects": 39222,
     "version": "2.1"
   },
   {
-    "rank": 1150,
+    "rank": 1149,
     "name": "Torsion",
-    "link": "https://demonlist.org/classic/1150",
+    "link": "https://demonlist.org/classic/1149",
     "length": "1:45",
     "objects": 77777,
     "version": "2.1"
   },
   {
-    "rank": 1151,
+    "rank": 1150,
     "name": "Apparition",
-    "link": "https://demonlist.org/classic/1151",
+    "link": "https://demonlist.org/classic/1150",
     "length": "1:19",
     "objects": 65889,
     "version": "2.1"
   },
   {
-    "rank": 1152,
+    "rank": 1151,
     "name": "Mecha Mayhem",
-    "link": "https://demonlist.org/classic/1152",
+    "link": "https://demonlist.org/classic/1151",
     "length": "1:52",
     "objects": 76398,
     "version": "2.1"
   },
   {
-    "rank": 1153,
+    "rank": 1152,
     "name": "sunburn",
-    "link": "https://demonlist.org/classic/1153",
+    "link": "https://demonlist.org/classic/1152",
     "length": "1:05",
     "objects": 39945,
     "version": "2.1"
   },
   {
-    "rank": 1154,
+    "rank": 1153,
     "name": "Helix",
-    "link": "https://demonlist.org/classic/1154",
+    "link": "https://demonlist.org/classic/1153",
     "length": "2:20",
     "objects": 253268,
     "version": "2.1"
   },
   {
-    "rank": 1155,
+    "rank": 1154,
     "name": "GEODE",
-    "link": "https://demonlist.org/classic/1155",
+    "link": "https://demonlist.org/classic/1154",
     "length": "1:07",
     "objects": 41957,
     "version": "2.1"
   },
   {
-    "rank": 1156,
+    "rank": 1155,
     "name": "Abyss",
-    "link": "https://demonlist.org/classic/1156",
+    "link": "https://demonlist.org/classic/1155",
     "length": "1:07",
     "objects": 18560,
     "version": "2.2"
   },
   {
-    "rank": 1157,
+    "rank": 1156,
     "name": "Elliptic Curve",
-    "link": "https://demonlist.org/classic/1157",
+    "link": "https://demonlist.org/classic/1156",
     "length": "1:16",
     "objects": 51844,
     "version": "2.1"
   },
   {
-    "rank": 1158,
+    "rank": 1157,
     "name": "Swirling Serenity",
-    "link": "https://demonlist.org/classic/1158",
+    "link": "https://demonlist.org/classic/1157",
     "length": "2:20",
     "objects": 112483,
     "version": "2.1"
   },
   {
-    "rank": 1159,
+    "rank": 1158,
     "name": "ELECTRA CHRONICA",
-    "link": "https://demonlist.org/classic/1159",
+    "link": "https://demonlist.org/classic/1158",
     "length": "3:03",
     "objects": 114701,
     "version": "2.2"
   },
   {
-    "rank": 1160,
+    "rank": 1159,
     "name": "cold planet",
-    "link": "https://demonlist.org/classic/1160",
+    "link": "https://demonlist.org/classic/1159",
     "length": "2:05",
     "objects": 81273,
     "version": "2.2"
   },
   {
-    "rank": 1161,
+    "rank": 1160,
     "name": "Halberd",
-    "link": "https://demonlist.org/classic/1161",
+    "link": "https://demonlist.org/classic/1160",
     "length": "1:10",
     "objects": 189369,
     "version": "2.1"
   },
   {
-    "rank": 1162,
+    "rank": 1161,
     "name": "Dismay",
-    "link": "https://demonlist.org/classic/1162",
+    "link": "https://demonlist.org/classic/1161",
     "length": "1:13",
     "objects": 68131,
     "version": "2.1"
   },
   {
-    "rank": 1163,
+    "rank": 1162,
     "name": "YeeSangHaeYo",
-    "link": "https://demonlist.org/classic/1163",
+    "link": "https://demonlist.org/classic/1162",
     "length": "1:25",
     "objects": 150337,
     "version": "2.1"
   },
   {
-    "rank": 1164,
+    "rank": 1163,
     "name": "Creation",
-    "link": "https://demonlist.org/classic/1164",
+    "link": "https://demonlist.org/classic/1163",
     "length": "0:53",
     "objects": 46081,
     "version": "2.1"
   },
   {
-    "rank": 1165,
+    "rank": 1164,
     "name": "Heat Wave",
-    "link": "https://demonlist.org/classic/1165",
+    "link": "https://demonlist.org/classic/1164",
     "length": "1:28",
     "objects": 106097,
     "version": "2.1"
   },
   {
-    "rank": 1166,
+    "rank": 1165,
     "name": "Angelic Blood",
-    "link": "https://demonlist.org/classic/1166",
+    "link": "https://demonlist.org/classic/1165",
     "length": "1:02",
     "objects": 44846,
     "version": "2.1"
   },
   {
-    "rank": 1167,
+    "rank": 1166,
     "name": "To the Exosphere",
-    "link": "https://demonlist.org/classic/1167",
+    "link": "https://demonlist.org/classic/1166",
     "length": "2:13",
     "objects": 80738,
     "version": "2.1"
   },
   {
-    "rank": 1168,
+    "rank": 1167,
     "name": "Welcome To GD News",
-    "link": "https://demonlist.org/classic/1168",
+    "link": "https://demonlist.org/classic/1167",
     "length": "1:50",
     "objects": 69052,
     "version": "2.1"
   },
   {
-    "rank": 1169,
+    "rank": 1168,
     "name": "4Elements",
-    "link": "https://demonlist.org/classic/1169",
+    "link": "https://demonlist.org/classic/1168",
     "length": "1:04",
     "objects": 59417,
     "version": "2.1"
   },
   {
-    "rank": 1170,
+    "rank": 1169,
     "name": "VIRTUE",
-    "link": "https://demonlist.org/classic/1170",
+    "link": "https://demonlist.org/classic/1169",
     "length": "1:14",
     "objects": 88888,
     "version": "2.1"
   },
   {
-    "rank": 1171,
+    "rank": 1170,
     "name": "cloudscape",
-    "link": "https://demonlist.org/classic/1171",
+    "link": "https://demonlist.org/classic/1170",
     "length": "1:30",
     "objects": 106662,
     "version": "2.1"
   },
   {
-    "rank": 1172,
+    "rank": 1171,
     "name": "Falling Maze",
-    "link": "https://demonlist.org/classic/1172",
+    "link": "https://demonlist.org/classic/1171",
     "length": "1:29",
     "objects": 63108,
     "version": "2.1"
   },
   {
-    "rank": 1173,
+    "rank": 1172,
     "name": "The Hell Dignity",
-    "link": "https://demonlist.org/classic/1173",
+    "link": "https://demonlist.org/classic/1172",
     "length": "1:33",
     "objects": 69521,
     "version": "2.1"
   },
   {
-    "rank": 1174,
+    "rank": 1173,
     "name": "Evangelion",
-    "link": "https://demonlist.org/classic/1174",
+    "link": "https://demonlist.org/classic/1173",
     "length": "1:24",
     "objects": 82130,
     "version": "2.1"
   },
   {
-    "rank": 1175,
+    "rank": 1174,
     "name": "MAKE ME SAD",
-    "link": "https://demonlist.org/classic/1175",
+    "link": "https://demonlist.org/classic/1174",
     "length": "1:05",
     "objects": 60591,
     "version": "2.2"
   },
   {
-    "rank": 1176,
+    "rank": 1175,
     "name": "gardening map",
-    "link": "https://demonlist.org/classic/1176",
+    "link": "https://demonlist.org/classic/1175",
     "length": "1:02",
     "objects": 45293,
     "version": "2.1"
   },
   {
-    "rank": 1177,
+    "rank": 1176,
     "name": "Swirling Storm",
-    "link": "https://demonlist.org/classic/1177",
+    "link": "https://demonlist.org/classic/1176",
     "length": "1:13",
     "objects": 83543,
     "version": "2.1"
   },
   {
-    "rank": 1178,
+    "rank": 1177,
     "name": "Venus Kinda Awesome",
-    "link": "https://demonlist.org/classic/1178",
+    "link": "https://demonlist.org/classic/1177",
     "length": "2:43",
     "objects": 78798,
     "version": "2.2"
   },
   {
-    "rank": 1179,
+    "rank": 1178,
     "name": "FirePower",
-    "link": "https://demonlist.org/classic/1179",
+    "link": "https://demonlist.org/classic/1178",
     "length": "1:03",
     "objects": 53750,
     "version": "2.1"
   },
   {
-    "rank": 1180,
+    "rank": 1179,
     "name": "Skrrah",
-    "link": "https://demonlist.org/classic/1180",
+    "link": "https://demonlist.org/classic/1179",
     "length": "1:08",
     "objects": 52778,
     "version": "2.1"
   },
   {
-    "rank": 1181,
+    "rank": 1180,
     "name": "mischievousmechanism",
-    "link": "https://demonlist.org/classic/1181",
+    "link": "https://demonlist.org/classic/1180",
     "length": "2:23",
     "objects": 65535,
     "version": "2.2"
   },
   {
-    "rank": 1182,
+    "rank": 1181,
     "name": "Chub Chub",
-    "link": "https://demonlist.org/classic/1182",
+    "link": "https://demonlist.org/classic/1181",
     "length": "1:07",
     "objects": 39814,
     "version": "2.1"
   },
   {
-    "rank": 1183,
+    "rank": 1182,
     "name": "Metalic Destruction",
-    "link": "https://demonlist.org/classic/1183",
+    "link": "https://demonlist.org/classic/1182",
     "length": "1:23",
     "objects": 79118,
     "version": "2.1"
   },
   {
-    "rank": 1184,
+    "rank": 1183,
     "name": "Dual Pulse",
-    "link": "https://demonlist.org/classic/1184",
+    "link": "https://demonlist.org/classic/1183",
     "length": "3:01",
     "objects": 74584,
     "version": "2.2"
   },
   {
-    "rank": 1185,
+    "rank": 1184,
     "name": "The Antimatter",
-    "link": "https://demonlist.org/classic/1185",
+    "link": "https://demonlist.org/classic/1184",
     "length": "1:29",
     "objects": 68358,
     "version": "2.1"
   },
   {
-    "rank": 1186,
+    "rank": 1185,
     "name": "SOAP",
-    "link": "https://demonlist.org/classic/1186",
+    "link": "https://demonlist.org/classic/1185",
     "length": "1:27",
     "objects": 33716,
     "version": "2.1"
   },
   {
-    "rank": 1187,
+    "rank": 1186,
     "name": "Warning",
-    "link": "https://demonlist.org/classic/1187",
+    "link": "https://demonlist.org/classic/1186",
     "length": "1:02",
     "objects": 103387,
     "version": "2.1"
   },
   {
-    "rank": 1188,
+    "rank": 1187,
     "name": "Pitfall Caverns",
-    "link": "https://demonlist.org/classic/1188",
+    "link": "https://demonlist.org/classic/1187",
     "length": "2:45",
     "objects": 58469,
     "version": "2.1"
   },
   {
-    "rank": 1189,
+    "rank": 1188,
     "name": "Totem",
-    "link": "https://demonlist.org/classic/1189",
+    "link": "https://demonlist.org/classic/1188",
     "length": "1:19",
     "objects": 89321,
     "version": "2.1"
   },
   {
-    "rank": 1190,
+    "rank": 1189,
     "name": "Glide",
-    "link": "https://demonlist.org/classic/1190",
+    "link": "https://demonlist.org/classic/1189",
     "length": "1:34",
     "objects": 26735,
     "version": "2.1"
   },
   {
-    "rank": 1191,
+    "rank": 1190,
     "name": "Theory of GURT",
-    "link": "https://demonlist.org/classic/1191",
+    "link": "https://demonlist.org/classic/1190",
     "length": "1:03",
     "objects": 31779,
     "version": "2.2"
   },
   {
-    "rank": 1192,
+    "rank": 1191,
     "name": "Grand Eclipse",
-    "link": "https://demonlist.org/classic/1192",
+    "link": "https://demonlist.org/classic/1191",
     "length": "2:03",
     "objects": 157548,
     "version": "2.2"
   },
   {
-    "rank": 1193,
+    "rank": 1192,
     "name": "INFLAMMABLE INFUSION",
-    "link": "https://demonlist.org/classic/1193",
+    "link": "https://demonlist.org/classic/1192",
     "length": "1:08",
     "objects": 38345,
     "version": "2.1"
   },
   {
-    "rank": 1194,
+    "rank": 1193,
     "name": "imitation game",
-    "link": "https://demonlist.org/classic/1194",
+    "link": "https://demonlist.org/classic/1193",
     "length": "0:58",
     "objects": 5203,
     "version": "2.2"
   },
   {
-    "rank": 1195,
+    "rank": 1194,
     "name": "THE PRINCE",
-    "link": "https://demonlist.org/classic/1195",
+    "link": "https://demonlist.org/classic/1194",
     "length": "2:14",
     "objects": 38918,
     "version": "2.2"
   },
   {
-    "rank": 1196,
+    "rank": 1195,
     "name": "STARBREAKER",
-    "link": "https://demonlist.org/classic/1196",
+    "link": "https://demonlist.org/classic/1195",
     "length": "1:35",
     "objects": 112244,
     "version": "2.2"
   },
   {
-    "rank": 1197,
+    "rank": 1196,
     "name": "Fexty",
-    "link": "https://demonlist.org/classic/1197",
+    "link": "https://demonlist.org/classic/1196",
     "length": "0:58",
     "objects": 16713,
     "version": "2.0"
   },
   {
-    "rank": 1198,
+    "rank": 1197,
     "name": "Yeo Baek",
-    "link": "https://demonlist.org/classic/1198",
+    "link": "https://demonlist.org/classic/1197",
     "length": "1:11",
     "objects": 26594,
     "version": "2.2"
   },
   {
-    "rank": 1199,
+    "rank": 1198,
     "name": "LOVE",
-    "link": "https://demonlist.org/classic/1199",
+    "link": "https://demonlist.org/classic/1198",
     "length": "1:03",
     "objects": 44917,
     "version": "2.1"
   },
   {
-    "rank": 1200,
+    "rank": 1199,
     "name": "SL8O",
-    "link": "https://demonlist.org/classic/1200",
+    "link": "https://demonlist.org/classic/1199",
     "length": "1:05",
     "objects": 27935,
     "version": "2.1"
   },
   {
-    "rank": 1201,
+    "rank": 1200,
     "name": "Fingerdash v3",
-    "link": "https://demonlist.org/classic/1201",
+    "link": "https://demonlist.org/classic/1200",
     "length": "1:27",
     "objects": 74562,
     "version": "2.1"
   },
   {
-    "rank": 1202,
+    "rank": 1201,
     "name": "The Ultimate Return",
-    "link": "https://demonlist.org/classic/1202",
+    "link": "https://demonlist.org/classic/1201",
     "length": "2:07",
     "objects": 194086,
     "version": "2.2"
   },
   {
-    "rank": 1203,
+    "rank": 1202,
     "name": "NecropoliX",
-    "link": "https://demonlist.org/classic/1203",
+    "link": "https://demonlist.org/classic/1202",
     "length": "1:35",
     "objects": 43669,
     "version": "2.1"
   },
   {
-    "rank": 1204,
+    "rank": 1203,
     "name": "Made from Ash",
-    "link": "https://demonlist.org/classic/1204",
+    "link": "https://demonlist.org/classic/1203",
     "length": "1:35",
     "objects": 68868,
     "version": "2.2"
   },
   {
-    "rank": 1205,
+    "rank": 1204,
     "name": "Reflective",
-    "link": "https://demonlist.org/classic/1205",
+    "link": "https://demonlist.org/classic/1204",
     "length": "1:44",
     "objects": 243346,
     "version": "2.1"
   },
   {
-    "rank": 1206,
+    "rank": 1205,
     "name": "Soundwave",
-    "link": "https://demonlist.org/classic/1206",
+    "link": "https://demonlist.org/classic/1205",
     "length": "1:01",
     "objects": 39999,
     "version": "2.2"
   },
   {
-    "rank": 1207,
+    "rank": 1206,
     "name": "vast waters",
-    "link": "https://demonlist.org/classic/1207",
+    "link": "https://demonlist.org/classic/1206",
     "length": "2:38",
     "objects": 44444,
     "version": "2.2"
   },
   {
-    "rank": 1208,
+    "rank": 1207,
     "name": "Recrystallize",
-    "link": "https://demonlist.org/classic/1208",
+    "link": "https://demonlist.org/classic/1207",
     "length": "3:56",
     "objects": 277195,
     "version": "2.1"
   },
   {
-    "rank": 1209,
+    "rank": 1208,
     "name": "To The Stars II",
-    "link": "https://demonlist.org/classic/1209",
+    "link": "https://demonlist.org/classic/1208",
     "length": "1:09",
     "objects": 16654,
     "version": "2.1"
   },
   {
-    "rank": 1210,
+    "rank": 1209,
     "name": "Myocardia",
-    "link": "https://demonlist.org/classic/1210",
+    "link": "https://demonlist.org/classic/1209",
     "length": "1:13",
     "objects": 115851,
     "version": "2.1"
   },
   {
-    "rank": 1211,
+    "rank": 1210,
     "name": "SHIN SWAY",
-    "link": "https://demonlist.org/classic/1211",
+    "link": "https://demonlist.org/classic/1210",
     "length": "1:05",
     "objects": 17659,
     "version": "2.2"
   },
   {
-    "rank": 1212,
+    "rank": 1211,
     "name": "Hopping Over Puddles",
-    "link": "https://demonlist.org/classic/1212",
+    "link": "https://demonlist.org/classic/1211",
     "length": "0:59",
     "objects": 24000,
     "version": "2.1"
   },
   {
-    "rank": 1213,
+    "rank": 1212,
     "name": "Plasmatic",
-    "link": "https://demonlist.org/classic/1213",
+    "link": "https://demonlist.org/classic/1212",
     "length": "1:23",
     "objects": 56787,
     "version": "2.1"
   },
   {
-    "rank": 1214,
+    "rank": 1213,
     "name": "Aurorae",
-    "link": "https://demonlist.org/classic/1214",
+    "link": "https://demonlist.org/classic/1213",
     "length": "1:39",
     "objects": 112171,
     "version": "2.1"
   },
   {
-    "rank": 1215,
+    "rank": 1214,
     "name": "Tron",
-    "link": "https://demonlist.org/classic/1215",
+    "link": "https://demonlist.org/classic/1214",
     "length": "1:10",
     "objects": 199990,
     "version": "2.1"
   },
   {
-    "rank": 1216,
+    "rank": 1215,
     "name": "Grind District",
-    "link": "https://demonlist.org/classic/1216",
+    "link": "https://demonlist.org/classic/1215",
     "length": "1:03",
     "objects": 29210,
     "version": "2.2"
   },
   {
-    "rank": 1217,
+    "rank": 1216,
     "name": "Graphite World",
-    "link": "https://demonlist.org/classic/1217",
+    "link": "https://demonlist.org/classic/1216",
     "length": "1:16",
     "objects": 61584,
     "version": "2.1"
   },
   {
-    "rank": 1218,
+    "rank": 1217,
     "name": "Xidstorm",
-    "link": "https://demonlist.org/classic/1218",
+    "link": "https://demonlist.org/classic/1217",
     "length": "1:08",
     "objects": 54832,
     "version": "2.2"
   },
   {
-    "rank": 1219,
+    "rank": 1218,
     "name": "Canneles au chocolat",
-    "link": "https://demonlist.org/classic/1219",
+    "link": "https://demonlist.org/classic/1218",
     "length": "1:18",
     "objects": 49560,
     "version": "2.2"
   },
   {
-    "rank": 1220,
+    "rank": 1219,
     "name": "Armageddon",
-    "link": "https://demonlist.org/classic/1220",
+    "link": "https://demonlist.org/classic/1219",
     "length": "1:19",
     "objects": 114244,
     "version": "2.1"
   },
   {
-    "rank": 1221,
+    "rank": 1220,
     "name": "Hades",
-    "link": "https://demonlist.org/classic/1221",
+    "link": "https://demonlist.org/classic/1220",
     "length": "1:02",
     "objects": 59947,
     "version": "2.2"
   },
   {
-    "rank": 1222,
+    "rank": 1221,
     "name": "Daydream",
-    "link": "https://demonlist.org/classic/1222",
+    "link": "https://demonlist.org/classic/1221",
     "length": "1:01",
     "objects": 52978,
     "version": "2.1"
   },
   {
-    "rank": 1223,
+    "rank": 1222,
     "name": "Vexatious",
-    "link": "https://demonlist.org/classic/1223",
+    "link": "https://demonlist.org/classic/1222",
     "length": "1:01",
     "objects": 54714,
     "version": "2.1"
   },
   {
-    "rank": 1224,
+    "rank": 1223,
     "name": "Hydraulic Overdrive",
-    "link": "https://demonlist.org/classic/1224",
+    "link": "https://demonlist.org/classic/1223",
     "length": "0:56",
     "objects": 107633,
     "version": "2.1"
   },
   {
-    "rank": 1225,
+    "rank": 1224,
     "name": "Cupid",
-    "link": "https://demonlist.org/classic/1225",
+    "link": "https://demonlist.org/classic/1224",
     "length": "1:31",
     "objects": 102431,
     "version": "2.1"
   },
   {
-    "rank": 1226,
+    "rank": 1225,
     "name": "Mjolnir",
-    "link": "https://demonlist.org/classic/1226",
+    "link": "https://demonlist.org/classic/1225",
     "length": "1:52",
     "objects": 172667,
     "version": "2.1"
   },
   {
-    "rank": 1227,
+    "rank": 1226,
     "name": "IH8",
-    "link": "https://demonlist.org/classic/1227",
+    "link": "https://demonlist.org/classic/1226",
     "length": "2:13",
     "objects": 139478,
     "version": "2.2"
   },
   {
-    "rank": 1228,
+    "rank": 1227,
     "name": "4ucked Up",
-    "link": "https://demonlist.org/classic/1228",
+    "link": "https://demonlist.org/classic/1227",
     "length": "1:23",
     "objects": 180214,
     "version": "2.1"
   },
   {
-    "rank": 1229,
+    "rank": 1228,
     "name": "Disintegrate",
-    "link": "https://demonlist.org/classic/1229",
+    "link": "https://demonlist.org/classic/1228",
     "length": "1:44",
     "objects": 149703,
     "version": "2.2"
   },
   {
-    "rank": 1230,
+    "rank": 1229,
     "name": "90210",
-    "link": "https://demonlist.org/classic/1230",
+    "link": "https://demonlist.org/classic/1229",
     "length": "0:55",
     "objects": 39985,
     "version": "2.2"
   },
   {
-    "rank": 1231,
+    "rank": 1230,
     "name": "EX",
-    "link": "https://demonlist.org/classic/1231",
+    "link": "https://demonlist.org/classic/1230",
     "length": "2:00",
     "objects": 398532,
     "version": "2.1"
   },
   {
-    "rank": 1232,
+    "rank": 1231,
     "name": "The Rainbow Switch",
-    "link": "https://demonlist.org/classic/1232",
+    "link": "https://demonlist.org/classic/1231",
     "length": "1:03",
     "objects": 94940,
     "version": "2.1"
   },
   {
-    "rank": 1233,
+    "rank": 1232,
     "name": "KINGSLAYER",
-    "link": "https://demonlist.org/classic/1233",
+    "link": "https://demonlist.org/classic/1232",
     "length": "1:36",
     "objects": 179338,
     "version": "2.1"
   },
   {
-    "rank": 1234,
+    "rank": 1233,
     "name": "Inner Void",
-    "link": "https://demonlist.org/classic/1234",
+    "link": "https://demonlist.org/classic/1233",
     "length": "1:14",
     "objects": 116036,
     "version": "2.2"
   },
   {
-    "rank": 1235,
+    "rank": 1234,
     "name": "DREAMING",
-    "link": "https://demonlist.org/classic/1235",
+    "link": "https://demonlist.org/classic/1234",
     "length": "1:00",
     "objects": 108774,
     "version": "2.1"
   },
   {
-    "rank": 1236,
+    "rank": 1235,
     "name": "Crimson Citadel",
-    "link": "https://demonlist.org/classic/1236",
+    "link": "https://demonlist.org/classic/1235",
     "length": "0:59",
     "objects": 56639,
     "version": "2.2"
   },
   {
-    "rank": 1237,
+    "rank": 1236,
     "name": "Noble Plague",
-    "link": "https://demonlist.org/classic/1237",
+    "link": "https://demonlist.org/classic/1236",
     "length": "1:12",
     "objects": 43556,
     "version": "2.2"
   },
   {
-    "rank": 1238,
+    "rank": 1237,
     "name": "Red World Rebirth",
-    "link": "https://demonlist.org/classic/1238",
+    "link": "https://demonlist.org/classic/1237",
     "length": "1:28",
     "objects": 20245,
     "version": "2.0"
   },
   {
-    "rank": 1239,
+    "rank": 1238,
     "name": "Dumbest Girl Alive",
-    "link": "https://demonlist.org/classic/1239",
+    "link": "https://demonlist.org/classic/1238",
     "length": "0:48",
     "objects": 35018,
     "version": "2.1"
   },
   {
-    "rank": 1240,
+    "rank": 1239,
     "name": "Pumped Up Kicks",
-    "link": "https://demonlist.org/classic/1240",
+    "link": "https://demonlist.org/classic/1239",
     "length": "4:03",
     "objects": 188746,
     "version": "2.1"
   },
   {
-    "rank": 1241,
+    "rank": 1240,
     "name": "Heartbeat",
-    "link": "https://demonlist.org/classic/1241",
+    "link": "https://demonlist.org/classic/1240",
     "length": "1:51",
     "objects": 30000,
     "version": "2.0"
   },
   {
-    "rank": 1242,
+    "rank": 1241,
     "name": "Cromulent",
-    "link": "https://demonlist.org/classic/1242",
+    "link": "https://demonlist.org/classic/1241",
     "length": "5:49",
     "objects": 339898,
     "version": "2.1"
   },
   {
-    "rank": 1243,
+    "rank": 1242,
     "name": "Lucky Vicky",
-    "link": "https://demonlist.org/classic/1243",
+    "link": "https://demonlist.org/classic/1242",
     "length": "1:10",
     "objects": 64119,
     "version": "2.2"
   },
   {
-    "rank": 1244,
+    "rank": 1243,
     "name": "Cybersonic",
-    "link": "https://demonlist.org/classic/1244",
+    "link": "https://demonlist.org/classic/1243",
     "length": "1:32",
     "objects": 76957,
     "version": "2.2"
   },
   {
-    "rank": 1245,
+    "rank": 1244,
     "name": "HACKER",
-    "link": "https://demonlist.org/classic/1245",
+    "link": "https://demonlist.org/classic/1244",
     "length": "0:48",
     "objects": 49396,
     "version": "2.2"
   },
   {
-    "rank": 1246,
+    "rank": 1245,
     "name": "sarthix",
-    "link": "https://demonlist.org/classic/1246",
+    "link": "https://demonlist.org/classic/1245",
     "length": "1:15",
     "objects": 57030,
     "version": "2.1"
   },
   {
-    "rank": 1247,
+    "rank": 1246,
     "name": "Violently X",
-    "link": "https://demonlist.org/classic/1247",
+    "link": "https://demonlist.org/classic/1246",
     "length": "1:01",
     "objects": 40247,
     "version": "2.1"
   },
   {
-    "rank": 1248,
+    "rank": 1247,
     "name": "Reaper Lair",
-    "link": "https://demonlist.org/classic/1248",
+    "link": "https://demonlist.org/classic/1247",
     "length": "1:58",
     "objects": 167450,
     "version": "2.1"
   },
   {
-    "rank": 1249,
+    "rank": 1248,
     "name": "Buff This 2",
-    "link": "https://demonlist.org/classic/1249",
+    "link": "https://demonlist.org/classic/1248",
     "length": "1:09",
     "objects": 104507,
     "version": "2.1"
   },
   {
-    "rank": 1250,
+    "rank": 1249,
     "name": "Aureole",
-    "link": "https://demonlist.org/classic/1250",
+    "link": "https://demonlist.org/classic/1249",
     "length": "1:39",
     "objects": 144924,
     "version": "2.1"
   },
   {
-    "rank": 1251,
+    "rank": 1250,
     "name": "PAINFUL PLAYLAND",
-    "link": "https://demonlist.org/classic/1251",
+    "link": "https://demonlist.org/classic/1250",
     "length": "2:41",
     "objects": 91217,
     "version": "2.1"
   },
   {
-    "rank": 1252,
+    "rank": 1251,
     "name": "Aura",
-    "link": "https://demonlist.org/classic/1252",
+    "link": "https://demonlist.org/classic/1251",
     "length": "1:02",
     "objects": 15056,
     "version": "2.2"
   },
   {
-    "rank": 1253,
+    "rank": 1252,
     "name": "wutend",
-    "link": "https://demonlist.org/classic/1253",
+    "link": "https://demonlist.org/classic/1252",
     "length": "1:27",
     "objects": 46663,
     "version": "2.2"
   },
   {
-    "rank": 1254,
+    "rank": 1253,
     "name": "Sky Conflux",
-    "link": "https://demonlist.org/classic/1254",
+    "link": "https://demonlist.org/classic/1253",
     "length": "1:52",
     "objects": 60747,
     "version": "2.2"
   },
   {
-    "rank": 1255,
+    "rank": 1254,
     "name": "Jail Break",
-    "link": "https://demonlist.org/classic/1255",
+    "link": "https://demonlist.org/classic/1254",
     "length": "2:09",
     "objects": 50050,
     "version": "2.2"
   },
   {
-    "rank": 1256,
+    "rank": 1255,
     "name": "NEBULA",
-    "link": "https://demonlist.org/classic/1256",
+    "link": "https://demonlist.org/classic/1255",
     "length": "1:11",
     "objects": 65535,
     "version": "2.2"
   },
   {
-    "rank": 1257,
+    "rank": 1256,
     "name": "Time Pulse",
-    "link": "https://demonlist.org/classic/1257",
+    "link": "https://demonlist.org/classic/1256",
     "length": "4:30",
     "objects": 1207743,
     "version": "2.1"
   },
   {
-    "rank": 1258,
+    "rank": 1257,
     "name": "Draco Meteor",
-    "link": "https://demonlist.org/classic/1258",
+    "link": "https://demonlist.org/classic/1257",
     "length": "1:34",
     "objects": 152904,
     "version": "2.1"
   },
   {
-    "rank": 1259,
+    "rank": 1258,
     "name": "Carbon",
-    "link": "https://demonlist.org/classic/1259",
+    "link": "https://demonlist.org/classic/1258",
     "length": "2:19",
     "objects": 123216,
     "version": "2.1"
   },
   {
-    "rank": 1260,
+    "rank": 1259,
     "name": "Destinies",
-    "link": "https://demonlist.org/classic/1260",
+    "link": "https://demonlist.org/classic/1259",
     "length": "3:06",
     "objects": 79300,
     "version": "2.2"
   },
   {
-    "rank": 1261,
+    "rank": 1260,
     "name": "Tech Manifestation",
-    "link": "https://demonlist.org/classic/1261",
+    "link": "https://demonlist.org/classic/1260",
     "length": "1:09",
     "objects": 73581,
     "version": "2.1"
   },
   {
-    "rank": 1262,
+    "rank": 1261,
     "name": "Seaglass Foundry",
-    "link": "https://demonlist.org/classic/1262",
+    "link": "https://demonlist.org/classic/1261",
     "length": "1:44",
     "objects": 107949,
     "version": "2.2"
   },
   {
-    "rank": 1263,
+    "rank": 1262,
     "name": "Angel Echo",
-    "link": "https://demonlist.org/classic/1263",
+    "link": "https://demonlist.org/classic/1262",
     "length": "1:48",
     "objects": 97508,
     "version": "2.2"
   },
   {
-    "rank": 1264,
+    "rank": 1263,
     "name": "Vociferous",
-    "link": "https://demonlist.org/classic/1264",
+    "link": "https://demonlist.org/classic/1263",
     "length": "1:16",
     "objects": 66556,
     "version": "2.1"
   },
   {
-    "rank": 1265,
+    "rank": 1264,
     "name": "Frightful Melody",
-    "link": "https://demonlist.org/classic/1265",
+    "link": "https://demonlist.org/classic/1264",
     "length": "1:35",
     "objects": 76769,
     "version": "2.1"
   },
   {
-    "rank": 1266,
+    "rank": 1265,
     "name": "CholeriX",
-    "link": "https://demonlist.org/classic/1266",
+    "link": "https://demonlist.org/classic/1265",
     "length": "1:02",
     "objects": 28195,
     "version": "2.1"
   },
   {
-    "rank": 1267,
+    "rank": 1266,
     "name": "Elite Z Rebirth",
-    "link": "https://demonlist.org/classic/1267",
+    "link": "https://demonlist.org/classic/1266",
     "length": "1:09",
     "objects": 25111,
     "version": "2.0"
   },
   {
-    "rank": 1268,
+    "rank": 1267,
     "name": "Crowded Void",
-    "link": "https://demonlist.org/classic/1268",
+    "link": "https://demonlist.org/classic/1267",
     "length": "2:06",
     "objects": 24122,
     "version": "2.2"
   },
   {
-    "rank": 1269,
+    "rank": 1268,
     "name": "YTRAX",
-    "link": "https://demonlist.org/classic/1269",
+    "link": "https://demonlist.org/classic/1268",
     "length": "1:16",
     "objects": 47124,
     "version": "2.2"
   },
   {
-    "rank": 1270,
+    "rank": 1269,
     "name": "Impasse",
-    "link": "https://demonlist.org/classic/1270",
+    "link": "https://demonlist.org/classic/1269",
     "length": "1:58",
     "objects": 92282,
     "version": "2.1"
   },
   {
-    "rank": 1271,
+    "rank": 1270,
     "name": "Warios Gold MinE",
-    "link": "https://demonlist.org/classic/1271",
+    "link": "https://demonlist.org/classic/1270",
     "length": "1:09",
     "objects": 67239,
     "version": "2.2"
   },
   {
-    "rank": 1272,
+    "rank": 1271,
     "name": "Nekotine",
-    "link": "https://demonlist.org/classic/1272",
+    "link": "https://demonlist.org/classic/1271",
     "length": "1:19",
     "objects": 54307,
     "version": "2.2"
   },
   {
-    "rank": 1273,
+    "rank": 1272,
     "name": "Karasu",
-    "link": "https://demonlist.org/classic/1273",
+    "link": "https://demonlist.org/classic/1272",
     "length": "3:08",
     "objects": 131722,
     "version": "2.1"
   },
   {
-    "rank": 1274,
+    "rank": 1273,
     "name": "Yggdrasil",
-    "link": "https://demonlist.org/classic/1274",
+    "link": "https://demonlist.org/classic/1273",
     "length": "1:16",
     "objects": 94979,
     "version": "2.1"
   },
   {
-    "rank": 1275,
+    "rank": 1274,
     "name": "Another Phase",
-    "link": "https://demonlist.org/classic/1275",
+    "link": "https://demonlist.org/classic/1274",
     "length": "1:38",
     "objects": 109428,
     "version": "2.1"
   },
   {
-    "rank": 1276,
+    "rank": 1275,
     "name": "geography dash",
-    "link": "https://demonlist.org/classic/1276",
+    "link": "https://demonlist.org/classic/1275",
     "length": "4:24",
     "objects": 98270,
     "version": "2.2"
   },
   {
-    "rank": 1277,
+    "rank": 1276,
     "name": "Circuit Breaker",
-    "link": "https://demonlist.org/classic/1277",
+    "link": "https://demonlist.org/classic/1276",
     "length": "0:59",
     "objects": 19088,
     "version": "2.1"
   },
   {
-    "rank": 1278,
+    "rank": 1277,
     "name": "Frenzy",
-    "link": "https://demonlist.org/classic/1278",
+    "link": "https://demonlist.org/classic/1277",
     "length": "1:01",
     "objects": 71336,
     "version": "2.1"
   },
   {
-    "rank": 1279,
+    "rank": 1278,
     "name": "OXI",
-    "link": "https://demonlist.org/classic/1279",
+    "link": "https://demonlist.org/classic/1278",
     "length": "1:13",
     "objects": 36601,
     "version": "2.2"
   },
   {
-    "rank": 1280,
+    "rank": 1279,
     "name": "Ballistic Funk",
-    "link": "https://demonlist.org/classic/1280",
+    "link": "https://demonlist.org/classic/1279",
     "length": "1:13",
     "objects": 186349,
     "version": "2.1"
   },
   {
-    "rank": 1281,
+    "rank": 1280,
     "name": "Psychotic",
-    "link": "https://demonlist.org/classic/1281",
+    "link": "https://demonlist.org/classic/1280",
     "length": "1:02",
     "objects": 49402,
     "version": "2.1"
   },
   {
-    "rank": 1282,
+    "rank": 1281,
     "name": "I NEVER DREAM",
-    "link": "https://demonlist.org/classic/1282",
+    "link": "https://demonlist.org/classic/1281",
     "length": "1:41",
     "objects": 115732,
     "version": "2.1"
   },
   {
-    "rank": 1283,
+    "rank": 1282,
     "name": "In Circles",
-    "link": "https://demonlist.org/classic/1283",
+    "link": "https://demonlist.org/classic/1282",
     "length": "1:28",
     "objects": 44712,
     "version": "2.2"
   },
   {
-    "rank": 1284,
+    "rank": 1283,
     "name": "SMARTISH MODE",
-    "link": "https://demonlist.org/classic/1284",
+    "link": "https://demonlist.org/classic/1283",
     "length": "1:41",
     "objects": 79537,
     "version": "2.2"
   },
   {
-    "rank": 1285,
+    "rank": 1284,
     "name": "Zenith",
-    "link": "https://demonlist.org/classic/1285",
+    "link": "https://demonlist.org/classic/1284",
     "length": "1:32",
     "objects": 250609,
     "version": "2.1"
   },
   {
-    "rank": 1286,
+    "rank": 1285,
     "name": "Pound Town",
-    "link": "https://demonlist.org/classic/1286",
+    "link": "https://demonlist.org/classic/1285",
     "length": "1:08",
     "objects": 35879,
     "version": "2.1"
   },
   {
-    "rank": 1287,
+    "rank": 1286,
     "name": "wtf",
-    "link": "https://demonlist.org/classic/1287",
+    "link": "https://demonlist.org/classic/1286",
     "length": "1:11",
     "objects": 25919,
     "version": "2.1"
   },
   {
-    "rank": 1288,
+    "rank": 1287,
     "name": "ZOOOOOOOOOOOOOOOOOOM",
-    "link": "https://demonlist.org/classic/1288",
+    "link": "https://demonlist.org/classic/1287",
     "length": "0:52",
     "objects": 39999,
     "version": "2.1"
   },
   {
-    "rank": 1289,
+    "rank": 1288,
     "name": "loop",
-    "link": "https://demonlist.org/classic/1289",
+    "link": "https://demonlist.org/classic/1288",
     "length": "1:20",
     "objects": 43865,
     "version": "2.1"
   },
   {
-    "rank": 1290,
+    "rank": 1289,
     "name": "Salvation",
-    "link": "https://demonlist.org/classic/1290",
+    "link": "https://demonlist.org/classic/1289",
     "length": "1:03",
     "objects": 32545,
     "version": "2.2"
   },
   {
-    "rank": 1291,
+    "rank": 1290,
     "name": "RIVERS OF NAZARETH",
-    "link": "https://demonlist.org/classic/1291",
+    "link": "https://demonlist.org/classic/1290",
     "length": "1:29",
     "objects": 76447,
     "version": "2.2"
   },
   {
-    "rank": 1292,
+    "rank": 1291,
     "name": "the super hotdog",
-    "link": "https://demonlist.org/classic/1292",
+    "link": "https://demonlist.org/classic/1291",
     "length": "0:49",
     "objects": 39999,
     "version": "2.2"
   },
   {
-    "rank": 1293,
+    "rank": 1292,
     "name": "Matilda the Machine",
-    "link": "https://demonlist.org/classic/1293",
+    "link": "https://demonlist.org/classic/1292",
     "length": "1:11",
     "objects": 29270,
     "version": "2.1"
   },
   {
-    "rank": 1294,
+    "rank": 1293,
     "name": "Depths of My Heart",
-    "link": "https://demonlist.org/classic/1294",
+    "link": "https://demonlist.org/classic/1293",
     "length": "1:26",
     "objects": 52246,
     "version": "2.1"
   },
   {
-    "rank": 1295,
+    "rank": 1294,
     "name": "Mazemory",
-    "link": "https://demonlist.org/classic/1295",
+    "link": "https://demonlist.org/classic/1294",
     "length": "1:15",
     "objects": 57379,
     "version": "2.2"
   },
   {
-    "rank": 1296,
+    "rank": 1295,
     "name": "Clown Control",
-    "link": "https://demonlist.org/classic/1296",
+    "link": "https://demonlist.org/classic/1295",
     "length": "1:33",
     "objects": 77636,
     "version": "2.2"
   },
   {
-    "rank": 1297,
+    "rank": 1296,
     "name": "0 mind",
-    "link": "https://demonlist.org/classic/1297",
+    "link": "https://demonlist.org/classic/1296",
     "length": "1:14",
     "objects": 77199,
     "version": "2.2"
   },
   {
-    "rank": 1298,
+    "rank": 1297,
     "name": "Evil Inside",
-    "link": "https://demonlist.org/classic/1298",
+    "link": "https://demonlist.org/classic/1297",
     "length": "1:46",
     "objects": 71118,
     "version": "2.2"
   },
   {
-    "rank": 1299,
+    "rank": 1298,
     "name": "JRJRJR",
-    "link": "https://demonlist.org/classic/1299",
+    "link": "https://demonlist.org/classic/1298",
     "length": "1:10",
     "objects": 32454,
     "version": "2.2"
   },
   {
-    "rank": 1300,
+    "rank": 1299,
     "name": "THIS CITY LIT",
-    "link": "https://demonlist.org/classic/1300",
+    "link": "https://demonlist.org/classic/1299",
     "length": "1:18",
     "objects": 91978,
     "version": "2.2"
   },
   {
-    "rank": 1301,
+    "rank": 1300,
     "name": "Wacky McWhackface v2",
-    "link": "https://demonlist.org/classic/1301",
+    "link": "https://demonlist.org/classic/1300",
     "length": "1:17",
     "objects": 58910,
     "version": "2.1"
   },
   {
-    "rank": 1302,
+    "rank": 1301,
     "name": "Gaming",
-    "link": "https://demonlist.org/classic/1302",
+    "link": "https://demonlist.org/classic/1301",
     "length": "1:01",
     "objects": 40898,
     "version": "2.1"
   },
   {
-    "rank": 1303,
+    "rank": 1302,
     "name": "UNG",
-    "link": "https://demonlist.org/classic/1303",
+    "link": "https://demonlist.org/classic/1302",
     "length": "1:01",
     "objects": 21167,
     "version": "2.2"
   },
   {
-    "rank": 1304,
+    "rank": 1303,
     "name": "TROLLMACHINE",
-    "link": "https://demonlist.org/classic/1304",
+    "link": "https://demonlist.org/classic/1303",
     "length": "1:55",
     "objects": 169144,
     "version": "2.1"
   },
   {
-    "rank": 1305,
+    "rank": 1304,
     "name": "Out of Chaos",
-    "link": "https://demonlist.org/classic/1305",
+    "link": "https://demonlist.org/classic/1304",
     "length": "2:36",
     "objects": 77218,
     "version": "2.1"
   },
   {
-    "rank": 1306,
+    "rank": 1305,
     "name": "Lotus",
-    "link": "https://demonlist.org/classic/1306",
+    "link": "https://demonlist.org/classic/1305",
     "length": "1:54",
     "objects": 223155,
     "version": "2.2"
   },
   {
-    "rank": 1307,
+    "rank": 1306,
     "name": "Goober Land",
-    "link": "https://demonlist.org/classic/1307",
+    "link": "https://demonlist.org/classic/1306",
     "length": "1:24",
     "objects": 43916,
     "version": "2.2"
   },
   {
-    "rank": 1308,
+    "rank": 1307,
     "name": "YIPPEE",
-    "link": "https://demonlist.org/classic/1308",
+    "link": "https://demonlist.org/classic/1307",
     "length": "1:09",
     "objects": 65558,
     "version": "2.2"
   },
   {
-    "rank": 1309,
+    "rank": 1308,
     "name": "FIREPOWER",
-    "link": "https://demonlist.org/classic/1309",
+    "link": "https://demonlist.org/classic/1308",
     "length": "1:24",
     "objects": 70524,
     "version": "2.2"
   },
   {
-    "rank": 1310,
+    "rank": 1309,
     "name": "CANCAN",
-    "link": "https://demonlist.org/classic/1310",
+    "link": "https://demonlist.org/classic/1309",
     "length": "0:50",
     "objects": 19040,
     "version": "2.2"
   },
   {
-    "rank": 1311,
+    "rank": 1310,
     "name": "gloss",
-    "link": "https://demonlist.org/classic/1311",
+    "link": "https://demonlist.org/classic/1310",
     "length": "0:53",
     "objects": 18888,
     "version": "2.1"
   },
   {
-    "rank": 1312,
+    "rank": 1311,
     "name": "GANGIMARI",
-    "link": "https://demonlist.org/classic/1312",
+    "link": "https://demonlist.org/classic/1311",
     "length": "1:13",
     "objects": 50090,
     "version": "2.1"
   },
   {
-    "rank": 1313,
+    "rank": 1312,
     "name": "devins thorn zone",
-    "link": "https://demonlist.org/classic/1313",
+    "link": "https://demonlist.org/classic/1312",
     "length": "0:58",
     "objects": 59115,
     "version": "2.2"
   },
   {
-    "rank": 1314,
+    "rank": 1313,
     "name": "PLANET TERROR",
-    "link": "https://demonlist.org/classic/1314",
+    "link": "https://demonlist.org/classic/1313",
     "length": "1:09",
     "objects": 43854,
     "version": "2.1"
   },
   {
-    "rank": 1315,
+    "rank": 1314,
     "name": "Spacious Senses",
-    "link": "https://demonlist.org/classic/1315",
+    "link": "https://demonlist.org/classic/1314",
     "length": "2:43",
     "objects": 99999,
     "version": "2.2"
   },
   {
-    "rank": 1316,
+    "rank": 1315,
     "name": "stargazing",
-    "link": "https://demonlist.org/classic/1316",
+    "link": "https://demonlist.org/classic/1315",
     "length": "1:01",
     "objects": 13372,
     "version": "2.2"
   },
   {
-    "rank": 1317,
+    "rank": 1316,
     "name": "Once Again",
-    "link": "https://demonlist.org/classic/1317",
+    "link": "https://demonlist.org/classic/1316",
     "length": "1:13",
     "objects": 50650,
     "version": "2.1"
   },
   {
-    "rank": 1318,
+    "rank": 1317,
     "name": "Redemption Arc",
-    "link": "https://demonlist.org/classic/1318",
+    "link": "https://demonlist.org/classic/1317",
     "length": "1:09",
     "objects": 37568,
     "version": "2.1"
   },
   {
-    "rank": 1319,
+    "rank": 1318,
     "name": "Knightmare",
-    "link": "https://demonlist.org/classic/1319",
+    "link": "https://demonlist.org/classic/1318",
     "length": "1:06",
     "objects": 68556,
     "version": "2.2"
   },
   {
-    "rank": 1320,
+    "rank": 1319,
     "name": "TUAPEKA",
-    "link": "https://demonlist.org/classic/1320",
+    "link": "https://demonlist.org/classic/1319",
     "length": "0:48",
     "objects": 53183,
     "version": "2.1"
   },
   {
-    "rank": 1321,
+    "rank": 1320,
     "name": "Retribution",
-    "link": "https://demonlist.org/classic/1321",
+    "link": "https://demonlist.org/classic/1320",
     "length": "1:50",
     "objects": 52366,
     "version": "2.2"
   },
   {
-    "rank": 1322,
+    "rank": 1321,
     "name": "Napalm",
-    "link": "https://demonlist.org/classic/1322",
+    "link": "https://demonlist.org/classic/1321",
     "length": "1:31",
     "objects": 165870,
     "version": "2.1"
   },
   {
-    "rank": 1323,
+    "rank": 1322,
     "name": "Goober Level",
-    "link": "https://demonlist.org/classic/1323",
+    "link": "https://demonlist.org/classic/1322",
     "length": "1:11",
     "objects": 40507,
     "version": "2.2"
   },
   {
-    "rank": 1324,
+    "rank": 1323,
     "name": "POINTIERCRATE",
-    "link": "https://demonlist.org/classic/1324",
+    "link": "https://demonlist.org/classic/1323",
     "length": "1:40",
     "objects": 80677,
     "version": "2.2"
   },
   {
-    "rank": 1325,
+    "rank": 1324,
     "name": "Color Beam",
-    "link": "https://demonlist.org/classic/1325",
+    "link": "https://demonlist.org/classic/1324",
     "length": "2:28",
     "objects": 64072,
     "version": "2.2"
   },
   {
-    "rank": 1326,
+    "rank": 1325,
     "name": "Party Rock Anthem",
-    "link": "https://demonlist.org/classic/1326",
+    "link": "https://demonlist.org/classic/1325",
     "length": "1:32",
     "objects": 90990,
     "version": "2.1"
   },
   {
-    "rank": 1327,
+    "rank": 1326,
     "name": "Desureta",
-    "link": "https://demonlist.org/classic/1327",
+    "link": "https://demonlist.org/classic/1326",
     "length": "1:02",
     "objects": 122236,
     "version": "2.2"
   },
   {
-    "rank": 1328,
+    "rank": 1327,
     "name": "HURRICANE",
-    "link": "https://demonlist.org/classic/1328",
+    "link": "https://demonlist.org/classic/1327",
     "length": "1:32",
     "objects": 178178,
     "version": "2.1"
   },
   {
-    "rank": 1329,
+    "rank": 1328,
     "name": "Generic Glow Level",
-    "link": "https://demonlist.org/classic/1329",
+    "link": "https://demonlist.org/classic/1328",
     "length": "1:21",
     "objects": 68709,
     "version": "2.1"
   },
   {
-    "rank": 1330,
+    "rank": 1329,
     "name": "CYCLONE",
-    "link": "https://demonlist.org/classic/1330",
+    "link": "https://demonlist.org/classic/1329",
     "length": "0:57",
     "objects": 116495,
     "version": "2.1"
   },
   {
-    "rank": 1331,
+    "rank": 1330,
     "name": "Thunder Alphabet",
-    "link": "https://demonlist.org/classic/1331",
+    "link": "https://demonlist.org/classic/1330",
     "length": "1:38",
     "objects": 155468,
     "version": "2.1"
   },
   {
-    "rank": 1332,
+    "rank": 1331,
     "name": "Fukushu",
-    "link": "https://demonlist.org/classic/1332",
+    "link": "https://demonlist.org/classic/1331",
     "length": "1:15",
     "objects": 144796,
     "version": "2.2"
   },
   {
-    "rank": 1333,
+    "rank": 1332,
     "name": "Shukufuku",
-    "link": "https://demonlist.org/classic/1333",
+    "link": "https://demonlist.org/classic/1332",
     "length": "1:20",
     "objects": 129934,
     "version": "2.1"
   },
   {
-    "rank": 1334,
+    "rank": 1333,
     "name": "SEGFAULT",
-    "link": "https://demonlist.org/classic/1334",
+    "link": "https://demonlist.org/classic/1333",
     "length": "1:04",
     "objects": 48682,
     "version": "2.2"
   },
   {
-    "rank": 1335,
+    "rank": 1334,
     "name": "BYE",
-    "link": "https://demonlist.org/classic/1335",
+    "link": "https://demonlist.org/classic/1334",
     "length": "1:28",
     "objects": 49238,
     "version": "2.1"
   },
   {
-    "rank": 1336,
+    "rank": 1335,
     "name": "On1y Cub3",
-    "link": "https://demonlist.org/classic/1336",
+    "link": "https://demonlist.org/classic/1335",
     "length": "0:45",
     "objects": 50115,
     "version": "2.1"
   },
   {
-    "rank": 1337,
+    "rank": 1336,
     "name": "DREAMS TAKE OVER",
-    "link": "https://demonlist.org/classic/1337",
+    "link": "https://demonlist.org/classic/1336",
     "length": "1:26",
     "objects": 69420,
     "version": "2.2"
   },
   {
-    "rank": 1338,
+    "rank": 1337,
     "name": "My Own Funeral",
-    "link": "https://demonlist.org/classic/1338",
+    "link": "https://demonlist.org/classic/1337",
     "length": "1:00",
     "objects": 28503,
     "version": "2.2"
   },
   {
-    "rank": 1339,
+    "rank": 1338,
     "name": "FEEL ALIVE",
-    "link": "https://demonlist.org/classic/1339",
+    "link": "https://demonlist.org/classic/1338",
     "length": "2:33",
     "objects": 84492,
     "version": "2.2"
   },
   {
-    "rank": 1340,
+    "rank": 1339,
     "name": "any percent",
-    "link": "https://demonlist.org/classic/1340",
+    "link": "https://demonlist.org/classic/1339",
     "length": "1:20",
     "objects": 27889,
     "version": "2.1"
   },
   {
-    "rank": 1341,
+    "rank": 1340,
     "name": "The Ultimate Phase",
-    "link": "https://demonlist.org/classic/1341",
+    "link": "https://demonlist.org/classic/1340",
     "length": "1:39",
     "objects": 20105,
     "version": "1.9"
   },
   {
-    "rank": 1342,
+    "rank": 1341,
     "name": "Fancy Schmancy Zaza",
-    "link": "https://demonlist.org/classic/1342",
+    "link": "https://demonlist.org/classic/1341",
     "length": "1:44",
     "objects": 142826,
     "version": "2.2"
   },
   {
-    "rank": 1343,
+    "rank": 1342,
     "name": "cerebral hemorrhage",
-    "link": "https://demonlist.org/classic/1343",
+    "link": "https://demonlist.org/classic/1342",
     "length": "1:28",
     "objects": 97169,
     "version": "2.1"
   },
   {
-    "rank": 1344,
+    "rank": 1343,
     "name": "BRAINWASH",
-    "link": "https://demonlist.org/classic/1344",
+    "link": "https://demonlist.org/classic/1343",
     "length": "0:58",
     "objects": 45403,
     "version": "2.2"
   },
   {
-    "rank": 1345,
+    "rank": 1344,
     "name": "reverence",
-    "link": "https://demonlist.org/classic/1345",
+    "link": "https://demonlist.org/classic/1344",
     "length": "1:13",
     "objects": 165618,
     "version": "2.1"
   },
   {
-    "rank": 1346,
+    "rank": 1345,
     "name": "Uplink",
-    "link": "https://demonlist.org/classic/1346",
+    "link": "https://demonlist.org/classic/1345",
     "length": "1:32",
     "objects": 34400,
     "version": "2.1"
   },
   {
-    "rank": 1347,
+    "rank": 1346,
     "name": "RTX ON",
-    "link": "https://demonlist.org/classic/1347",
+    "link": "https://demonlist.org/classic/1346",
     "length": "1:10",
     "objects": 77276,
     "version": "2.1"
   },
   {
-    "rank": 1348,
+    "rank": 1347,
     "name": "morning vibe",
-    "link": "https://demonlist.org/classic/1348",
+    "link": "https://demonlist.org/classic/1347",
     "length": "1:35",
     "objects": 11999,
     "version": "2.2"
   },
   {
-    "rank": 1349,
+    "rank": 1348,
     "name": "SMASH",
-    "link": "https://demonlist.org/classic/1349",
+    "link": "https://demonlist.org/classic/1348",
     "length": "1:02",
     "objects": 54547,
     "version": "2.1"
   },
   {
-    "rank": 1350,
+    "rank": 1349,
     "name": "Enlightened memories",
-    "link": "https://demonlist.org/classic/1350",
+    "link": "https://demonlist.org/classic/1349",
     "length": "1:15",
     "objects": 46525,
     "version": "2.1"
   },
   {
-    "rank": 1351,
+    "rank": 1350,
     "name": "The Tears Beneath",
-    "link": "https://demonlist.org/classic/1351",
+    "link": "https://demonlist.org/classic/1350",
     "length": "1:38",
     "objects": 117642,
     "version": "2.1"
   },
   {
-    "rank": 1352,
+    "rank": 1351,
     "name": "squelch",
-    "link": "https://demonlist.org/classic/1352",
+    "link": "https://demonlist.org/classic/1351",
     "length": "1:15",
     "objects": 28439,
     "version": "2.2"
   },
   {
-    "rank": 1353,
+    "rank": 1352,
     "name": "Dance Til Dawn",
-    "link": "https://demonlist.org/classic/1353",
+    "link": "https://demonlist.org/classic/1352",
     "length": "1:01",
     "objects": 44811,
     "version": "2.1"
   },
   {
-    "rank": 1354,
+    "rank": 1353,
     "name": "Lonely Lights",
-    "link": "https://demonlist.org/classic/1354",
+    "link": "https://demonlist.org/classic/1353",
     "length": "1:02",
     "objects": 72453,
     "version": "2.1"
   },
   {
-    "rank": 1355,
+    "rank": 1354,
     "name": "Evil Depths",
-    "link": "https://demonlist.org/classic/1355",
+    "link": "https://demonlist.org/classic/1354",
     "length": "1:19",
     "objects": 170941,
     "version": "2.1"
   },
   {
-    "rank": 1356,
+    "rank": 1355,
     "name": "Devils Disco",
-    "link": "https://demonlist.org/classic/1356",
+    "link": "https://demonlist.org/classic/1355",
     "length": "1:25",
     "objects": 85141,
     "version": "2.1"
   },
   {
-    "rank": 1357,
+    "rank": 1356,
     "name": "Zettabyte",
-    "link": "https://demonlist.org/classic/1357",
+    "link": "https://demonlist.org/classic/1356",
     "length": "1:39",
     "objects": 146738,
     "version": "2.1"
   },
   {
-    "rank": 1358,
+    "rank": 1357,
     "name": "GODZILLA",
-    "link": "https://demonlist.org/classic/1358",
+    "link": "https://demonlist.org/classic/1357",
     "length": "1:00",
     "objects": 87546,
     "version": "2.1"
   },
   {
-    "rank": 1359,
+    "rank": 1358,
     "name": "Cyberstorm",
-    "link": "https://demonlist.org/classic/1359",
+    "link": "https://demonlist.org/classic/1358",
     "length": "1:05",
     "objects": 92302,
     "version": "2.1"
   },
   {
-    "rank": 1360,
+    "rank": 1359,
     "name": "White Noise",
-    "link": "https://demonlist.org/classic/1360",
+    "link": "https://demonlist.org/classic/1359",
     "length": "1:48",
     "objects": 47028,
     "version": "2.1"
   },
   {
-    "rank": 1361,
+    "rank": 1360,
     "name": "stand in the snow",
-    "link": "https://demonlist.org/classic/1361",
+    "link": "https://demonlist.org/classic/1360",
     "length": "1:04",
     "objects": 44668,
     "version": "2.1"
   },
   {
-    "rank": 1362,
+    "rank": 1361,
     "name": "pulsation",
-    "link": "https://demonlist.org/classic/1362",
+    "link": "https://demonlist.org/classic/1361",
     "length": "1:55",
     "objects": 79009,
     "version": "2.1"
   },
   {
-    "rank": 1363,
+    "rank": 1362,
     "name": "Semicolon 3",
-    "link": "https://demonlist.org/classic/1363",
+    "link": "https://demonlist.org/classic/1362",
     "length": "1:37",
     "objects": 51590,
     "version": "2.1"
   },
   {
-    "rank": 1364,
+    "rank": 1363,
     "name": "Exotic Energy",
-    "link": "https://demonlist.org/classic/1364",
+    "link": "https://demonlist.org/classic/1363",
     "length": "1:27",
     "objects": 76804,
     "version": "2.1"
   },
   {
-    "rank": 1365,
+    "rank": 1364,
     "name": "MORPHINE",
-    "link": "https://demonlist.org/classic/1365",
+    "link": "https://demonlist.org/classic/1364",
     "length": "1:43",
     "objects": 63600,
     "version": "2.2"
   },
   {
-    "rank": 1366,
+    "rank": 1365,
     "name": "Quadratic Function",
-    "link": "https://demonlist.org/classic/1366",
+    "link": "https://demonlist.org/classic/1365",
     "length": "1:04",
     "objects": 46075,
     "version": "2.2"
   },
   {
-    "rank": 1367,
+    "rank": 1366,
     "name": "HAPPY PILLS",
-    "link": "https://demonlist.org/classic/1367",
+    "link": "https://demonlist.org/classic/1366",
     "length": "1:16",
     "objects": 69084,
     "version": "2.2"
   },
   {
-    "rank": 1368,
+    "rank": 1367,
     "name": "Deception Dive",
-    "link": "https://demonlist.org/classic/1368",
+    "link": "https://demonlist.org/classic/1367",
     "length": "2:12",
     "objects": 88890,
     "version": "2.1"
   },
   {
-    "rank": 1369,
+    "rank": 1368,
     "name": "Hell Machine",
-    "link": "https://demonlist.org/classic/1369",
+    "link": "https://demonlist.org/classic/1368",
     "length": "1:01",
     "objects": 178471,
     "version": "2.1"
   },
   {
-    "rank": 1370,
+    "rank": 1369,
     "name": "KUB",
-    "link": "https://demonlist.org/classic/1370",
+    "link": "https://demonlist.org/classic/1369",
     "length": "1:12",
     "objects": 17450,
     "version": "2.1"
   },
   {
-    "rank": 1371,
+    "rank": 1370,
     "name": "straightforward",
-    "link": "https://demonlist.org/classic/1371",
+    "link": "https://demonlist.org/classic/1370",
     "length": "0:53",
     "objects": 77270,
     "version": "2.1"
   },
   {
-    "rank": 1372,
+    "rank": 1371,
     "name": "3ABNCNMOCT6",
-    "link": "https://demonlist.org/classic/1372",
+    "link": "https://demonlist.org/classic/1371",
     "length": "1:56",
     "objects": 41809,
     "version": "2.2"
   },
   {
-    "rank": 1373,
+    "rank": 1372,
     "name": "Reanimate",
-    "link": "https://demonlist.org/classic/1373",
+    "link": "https://demonlist.org/classic/1372",
     "length": "2:34",
     "objects": 265361,
     "version": "2.1"
   },
   {
-    "rank": 1374,
+    "rank": 1373,
     "name": "Sky tech",
-    "link": "https://demonlist.org/classic/1374",
+    "link": "https://demonlist.org/classic/1373",
     "length": "1:42",
     "objects": 33516,
     "version": "2.1"
   },
   {
-    "rank": 1375,
+    "rank": 1374,
     "name": "doradura",
-    "link": "https://demonlist.org/classic/1375",
+    "link": "https://demonlist.org/classic/1374",
     "length": "1:06",
     "objects": 67725,
     "version": "2.1"
   },
   {
-    "rank": 1376,
+    "rank": 1375,
     "name": "Hydratic",
-    "link": "https://demonlist.org/classic/1376",
+    "link": "https://demonlist.org/classic/1375",
     "length": "1:31",
     "objects": 127212,
     "version": "2.1"
   },
   {
-    "rank": 1377,
+    "rank": 1376,
     "name": "ILOVECYAN",
-    "link": "https://demonlist.org/classic/1377",
+    "link": "https://demonlist.org/classic/1376",
     "length": "1:00",
     "objects": 178687,
     "version": "2.1"
   },
   {
-    "rank": 1378,
+    "rank": 1377,
     "name": "Artificial Dream",
-    "link": "https://demonlist.org/classic/1378",
+    "link": "https://demonlist.org/classic/1377",
     "length": "1:03",
     "objects": 50000,
     "version": "2.1"
   },
   {
-    "rank": 1379,
+    "rank": 1378,
     "name": "boson",
-    "link": "https://demonlist.org/classic/1379",
+    "link": "https://demonlist.org/classic/1378",
     "length": "1:23",
     "objects": 81476,
     "version": "2.2"
   },
   {
-    "rank": 1380,
+    "rank": 1379,
     "name": "Amon",
-    "link": "https://demonlist.org/classic/1380",
+    "link": "https://demonlist.org/classic/1379",
     "length": "1:40",
     "objects": 139306,
     "version": "2.1"
   },
   {
-    "rank": 1381,
+    "rank": 1380,
     "name": "Awakening Horus",
-    "link": "https://demonlist.org/classic/1381",
+    "link": "https://demonlist.org/classic/1380",
     "length": "1:15",
     "objects": 63275,
     "version": "2.1"
   },
   {
-    "rank": 1382,
+    "rank": 1381,
     "name": "KAWAII",
-    "link": "https://demonlist.org/classic/1382",
+    "link": "https://demonlist.org/classic/1381",
     "length": "1:09",
     "objects": 98179,
     "version": "2.1"
   },
   {
-    "rank": 1383,
+    "rank": 1382,
     "name": "encroaching dark",
-    "link": "https://demonlist.org/classic/1383",
+    "link": "https://demonlist.org/classic/1382",
     "length": "2:58",
     "objects": 101436,
     "version": "2.2"
   },
   {
-    "rank": 1384,
+    "rank": 1383,
     "name": "The Red Coronation",
-    "link": "https://demonlist.org/classic/1384",
+    "link": "https://demonlist.org/classic/1383",
     "length": "1:28",
     "objects": 31644,
     "version": "2.1"
   },
   {
-    "rank": 1385,
+    "rank": 1384,
     "name": "Mandragora",
-    "link": "https://demonlist.org/classic/1385",
+    "link": "https://demonlist.org/classic/1384",
     "length": "2:30",
     "objects": 227236,
     "version": "2.1"
   },
   {
-    "rank": 1386,
+    "rank": 1385,
     "name": "BLIND",
-    "link": "https://demonlist.org/classic/1386",
+    "link": "https://demonlist.org/classic/1385",
     "length": "2:30",
     "objects": 203802,
     "version": "2.2"
   },
   {
-    "rank": 1387,
+    "rank": 1386,
     "name": "Malware II",
-    "link": "https://demonlist.org/classic/1387",
+    "link": "https://demonlist.org/classic/1386",
     "length": "1:16",
     "objects": 78763,
     "version": "2.1"
   },
   {
-    "rank": 1388,
+    "rank": 1387,
     "name": "Backlights",
-    "link": "https://demonlist.org/classic/1388",
+    "link": "https://demonlist.org/classic/1387",
     "length": "1:46",
     "objects": 165607,
     "version": "2.1"
   },
   {
-    "rank": 1389,
+    "rank": 1388,
     "name": "Crowd Control",
-    "link": "https://demonlist.org/classic/1389",
+    "link": "https://demonlist.org/classic/1388",
     "length": "1:03",
     "objects": 39240,
     "version": "2.1"
   },
   {
-    "rank": 1390,
+    "rank": 1389,
     "name": "Steel Terrors",
-    "link": "https://demonlist.org/classic/1390",
+    "link": "https://demonlist.org/classic/1389",
     "length": "1:28",
     "objects": 67611,
     "version": "2.2"
   },
   {
-    "rank": 1391,
+    "rank": 1390,
     "name": "Volume",
-    "link": "https://demonlist.org/classic/1391",
+    "link": "https://demonlist.org/classic/1390",
     "length": "1:22",
     "objects": 46545,
     "version": "2.1"
   },
   {
-    "rank": 1392,
+    "rank": 1391,
     "name": "Retention",
-    "link": "https://demonlist.org/classic/1392",
+    "link": "https://demonlist.org/classic/1391",
     "length": "1:31",
     "objects": 25224,
     "version": "2.0"
   },
   {
-    "rank": 1393,
+    "rank": 1392,
     "name": "ABSURDIA",
-    "link": "https://demonlist.org/classic/1393",
+    "link": "https://demonlist.org/classic/1392",
     "length": "1:17",
     "objects": 106042,
     "version": "2.2"
   },
   {
-    "rank": 1394,
+    "rank": 1393,
     "name": "Witching Hour",
-    "link": "https://demonlist.org/classic/1394",
+    "link": "https://demonlist.org/classic/1393",
     "length": "1:29",
     "objects": 73240,
     "version": "2.1"
   },
   {
-    "rank": 1395,
+    "rank": 1394,
     "name": "Shimmer",
-    "link": "https://demonlist.org/classic/1395",
+    "link": "https://demonlist.org/classic/1394",
     "length": "1:28",
     "objects": 144822,
     "version": "2.2"
   },
   {
-    "rank": 1396,
+    "rank": 1395,
     "name": "FISH FISH GODMODE",
-    "link": "https://demonlist.org/classic/1396",
+    "link": "https://demonlist.org/classic/1395",
     "length": "1:01",
     "objects": 32030,
     "version": "2.1"
   },
   {
-    "rank": 1397,
+    "rank": 1396,
     "name": "PLUS ULTRA",
-    "link": "https://demonlist.org/classic/1397",
+    "link": "https://demonlist.org/classic/1396",
     "length": "1:34",
     "objects": 269755,
     "version": "2.1"
   },
   {
-    "rank": 1398,
+    "rank": 1397,
     "name": "iridium",
-    "link": "https://demonlist.org/classic/1398",
+    "link": "https://demonlist.org/classic/1397",
     "length": "1:12",
     "objects": 42069,
     "version": "2.1"
   },
   {
-    "rank": 1399,
+    "rank": 1398,
     "name": "Vacant",
-    "link": "https://demonlist.org/classic/1399",
+    "link": "https://demonlist.org/classic/1398",
     "length": "1:12",
     "objects": 54051,
     "version": "2.1"
   },
   {
-    "rank": 1400,
+    "rank": 1399,
     "name": "SHINE",
-    "link": "https://demonlist.org/classic/1400",
+    "link": "https://demonlist.org/classic/1399",
     "length": "1:00",
     "objects": 15469,
     "version": "2.2"
   },
   {
-    "rank": 1401,
+    "rank": 1400,
     "name": "World War",
-    "link": "https://demonlist.org/classic/1401",
+    "link": "https://demonlist.org/classic/1400",
     "length": "2:52",
     "objects": 286755,
     "version": "2.1"
   },
   {
-    "rank": 1402,
+    "rank": 1401,
     "name": "ElectroLux",
-    "link": "https://demonlist.org/classic/1402",
+    "link": "https://demonlist.org/classic/1401",
     "length": "2:46",
     "objects": 326806,
     "version": "2.1"
   },
   {
-    "rank": 1403,
+    "rank": 1402,
     "name": "Interstellar Entropy",
-    "link": "https://demonlist.org/classic/1403",
+    "link": "https://demonlist.org/classic/1402",
     "length": "2:22",
     "objects": 237540,
     "version": "2.2"
   },
   {
-    "rank": 1404,
+    "rank": 1403,
     "name": "Last Station",
-    "link": "https://demonlist.org/classic/1404",
+    "link": "https://demonlist.org/classic/1403",
     "length": "1:45",
     "objects": 43780,
     "version": "0"
   },
   {
-    "rank": 1405,
+    "rank": 1404,
     "name": "HASTE",
-    "link": "https://demonlist.org/classic/1405",
+    "link": "https://demonlist.org/classic/1404",
     "length": "1:58",
     "objects": 201652,
     "version": "2.1"
   },
   {
-    "rank": 1406,
+    "rank": 1405,
     "name": "Sakureta",
-    "link": "https://demonlist.org/classic/1406",
+    "link": "https://demonlist.org/classic/1405",
     "length": "1:12",
     "objects": 102800,
     "version": "2.2"
   },
   {
-    "rank": 1407,
+    "rank": 1406,
     "name": "Broken Signal",
-    "link": "https://demonlist.org/classic/1407",
+    "link": "https://demonlist.org/classic/1406",
     "length": "1:50",
     "objects": 118683,
     "version": "2.1"
   },
   {
-    "rank": 1408,
+    "rank": 1407,
     "name": "Neferrous",
-    "link": "https://demonlist.org/classic/1408",
+    "link": "https://demonlist.org/classic/1407",
     "length": "1:34",
     "objects": 119189,
     "version": "2.1"
   },
   {
-    "rank": 1409,
+    "rank": 1408,
     "name": "Dark Rivalry",
-    "link": "https://demonlist.org/classic/1409",
+    "link": "https://demonlist.org/classic/1408",
     "length": "1:02",
     "objects": 64523,
     "version": "2.1"
   },
   {
-    "rank": 1410,
+    "rank": 1409,
     "name": "Red Roses",
-    "link": "https://demonlist.org/classic/1410",
+    "link": "https://demonlist.org/classic/1409",
     "length": "1:16",
     "objects": 71671,
     "version": "2.1"
   },
   {
-    "rank": 1411,
+    "rank": 1410,
     "name": "Profanity",
-    "link": "https://demonlist.org/classic/1411",
+    "link": "https://demonlist.org/classic/1410",
     "length": "1:13",
     "objects": 66804,
     "version": "2.2"
   },
   {
-    "rank": 1412,
+    "rank": 1411,
     "name": "HORRORCORE",
-    "link": "https://demonlist.org/classic/1412",
+    "link": "https://demonlist.org/classic/1411",
     "length": "1:10",
     "objects": 59878,
     "version": "2.1"
   },
   {
-    "rank": 1413,
+    "rank": 1412,
     "name": "sequel named finger",
-    "link": "https://demonlist.org/classic/1413",
+    "link": "https://demonlist.org/classic/1412",
     "length": "1:30",
     "objects": 26582,
     "version": "2.2"
   },
   {
-    "rank": 1414,
+    "rank": 1413,
     "name": "Without U",
-    "link": "https://demonlist.org/classic/1414",
+    "link": "https://demonlist.org/classic/1413",
     "length": "2:28",
     "objects": 184573,
     "version": "2.2"
   },
   {
-    "rank": 1415,
+    "rank": 1414,
     "name": "The Gins II",
-    "link": "https://demonlist.org/classic/1415",
+    "link": "https://demonlist.org/classic/1414",
     "length": "1:44",
     "objects": 64048,
     "version": "2.1"
   },
   {
-    "rank": 1416,
+    "rank": 1415,
     "name": "Falling Up",
-    "link": "https://demonlist.org/classic/1416",
+    "link": "https://demonlist.org/classic/1415",
     "length": "2:16",
     "objects": 30802,
     "version": "2.1"
   },
   {
-    "rank": 1417,
+    "rank": 1416,
     "name": "La Llorona",
-    "link": "https://demonlist.org/classic/1417",
+    "link": "https://demonlist.org/classic/1416",
     "length": "2:12",
     "objects": 159658,
     "version": "2.1"
   },
   {
-    "rank": 1418,
+    "rank": 1417,
     "name": "Diligence",
-    "link": "https://demonlist.org/classic/1418",
+    "link": "https://demonlist.org/classic/1417",
     "length": "1:52",
     "objects": 350182,
     "version": "2.1"
   },
   {
-    "rank": 1419,
+    "rank": 1418,
     "name": "Acrozis",
-    "link": "https://demonlist.org/classic/1419",
+    "link": "https://demonlist.org/classic/1418",
     "length": "1:14",
     "objects": 76709,
     "version": "2.1"
   },
   {
-    "rank": 1420,
+    "rank": 1419,
     "name": "Faith",
-    "link": "https://demonlist.org/classic/1420",
+    "link": "https://demonlist.org/classic/1419",
     "length": "2:08",
     "objects": 276201,
     "version": "2.1"
   },
   {
-    "rank": 1421,
+    "rank": 1420,
     "name": "Rayovac",
-    "link": "https://demonlist.org/classic/1421",
+    "link": "https://demonlist.org/classic/1420",
     "length": "1:39",
     "objects": 161868,
     "version": "2.1"
   },
   {
-    "rank": 1422,
+    "rank": 1421,
     "name": "Vermilion",
-    "link": "https://demonlist.org/classic/1422",
+    "link": "https://demonlist.org/classic/1421",
     "length": "1:40",
     "objects": 76859,
     "version": "2.1"
   },
   {
-    "rank": 1423,
+    "rank": 1422,
     "name": "four",
-    "link": "https://demonlist.org/classic/1423",
+    "link": "https://demonlist.org/classic/1422",
     "length": "0:52",
     "objects": 38561,
     "version": "2.1"
   },
   {
-    "rank": 1424,
+    "rank": 1423,
     "name": "Project alter",
-    "link": "https://demonlist.org/classic/1424",
+    "link": "https://demonlist.org/classic/1423",
     "length": "0:58",
     "objects": 38399,
     "version": "2.2"
   },
   {
-    "rank": 1425,
+    "rank": 1424,
     "name": "Booh",
-    "link": "https://demonlist.org/classic/1425",
+    "link": "https://demonlist.org/classic/1424",
     "length": "1:00",
     "objects": 101575,
     "version": "2.1"
   },
   {
-    "rank": 1426,
+    "rank": 1425,
     "name": "Breakout",
-    "link": "https://demonlist.org/classic/1426",
+    "link": "https://demonlist.org/classic/1425",
     "length": "1:18",
     "objects": 31249,
     "version": "2.1"
   },
   {
-    "rank": 1427,
+    "rank": 1426,
     "name": "Falsch",
-    "link": "https://demonlist.org/classic/1427",
+    "link": "https://demonlist.org/classic/1426",
     "length": "1:15",
     "objects": 33606,
     "version": "2.2"
   },
   {
-    "rank": 1428,
+    "rank": 1427,
     "name": "Stellaluna",
-    "link": "https://demonlist.org/classic/1428",
+    "link": "https://demonlist.org/classic/1427",
     "length": "1:00",
     "objects": 32891,
     "version": "2.1"
   },
   {
-    "rank": 1429,
+    "rank": 1428,
     "name": "Melon River",
-    "link": "https://demonlist.org/classic/1429",
+    "link": "https://demonlist.org/classic/1428",
     "length": "1:29",
     "objects": 70255,
     "version": "2.2"
   },
   {
-    "rank": 1430,
+    "rank": 1429,
     "name": "Voided",
-    "link": "https://demonlist.org/classic/1430",
+    "link": "https://demonlist.org/classic/1429",
     "length": "1:07",
     "objects": 52123,
     "version": "2.1"
   },
   {
-    "rank": 1431,
+    "rank": 1430,
     "name": "Miscellaneous Memory",
-    "link": "https://demonlist.org/classic/1431",
+    "link": "https://demonlist.org/classic/1430",
     "length": "1:37",
     "objects": 76172,
     "version": "2.1"
   },
   {
-    "rank": 1432,
+    "rank": 1431,
     "name": "Heart Attack",
-    "link": "https://demonlist.org/classic/1432",
+    "link": "https://demonlist.org/classic/1431",
     "length": "1:51",
     "objects": 41933,
     "version": "2.1"
   },
   {
-    "rank": 1433,
+    "rank": 1432,
     "name": "SUBVERSIVE",
-    "link": "https://demonlist.org/classic/1433",
+    "link": "https://demonlist.org/classic/1432",
     "length": "3:05",
     "objects": 85186,
     "version": "2.0"
   },
   {
-    "rank": 1434,
+    "rank": 1433,
     "name": "Marlboro reds",
-    "link": "https://demonlist.org/classic/1434",
+    "link": "https://demonlist.org/classic/1433",
     "length": "1:22",
     "objects": 62790,
     "version": "2.2"
   },
   {
-    "rank": 1435,
+    "rank": 1434,
     "name": "Beyond the summit",
-    "link": "https://demonlist.org/classic/1435",
+    "link": "https://demonlist.org/classic/1434",
     "length": "3:13",
     "objects": 133044,
     "version": "2.1"
   },
   {
-    "rank": 1436,
+    "rank": 1435,
     "name": "Cosmic Cluster",
-    "link": "https://demonlist.org/classic/1436",
+    "link": "https://demonlist.org/classic/1435",
     "length": "1:14",
     "objects": 39629,
     "version": "2.1"
   },
   {
-    "rank": 1437,
+    "rank": 1436,
     "name": "Bunny Demon",
-    "link": "https://demonlist.org/classic/1437",
+    "link": "https://demonlist.org/classic/1436",
     "length": "0:58",
     "objects": 25637,
     "version": "2.2"
   },
   {
-    "rank": 1438,
+    "rank": 1437,
     "name": "Clarity",
-    "link": "https://demonlist.org/classic/1438",
+    "link": "https://demonlist.org/classic/1437",
     "length": "1:23",
     "objects": 43243,
     "version": "2.2"
   },
   {
-    "rank": 1439,
+    "rank": 1438,
     "name": "Iniquity",
-    "link": "https://demonlist.org/classic/1439",
+    "link": "https://demonlist.org/classic/1438",
     "length": "1:15",
     "objects": 60916,
     "version": "2.2"
   },
   {
-    "rank": 1440,
+    "rank": 1439,
     "name": "ROW",
-    "link": "https://demonlist.org/classic/1440",
+    "link": "https://demonlist.org/classic/1439",
     "length": "1:06",
     "objects": 65535,
     "version": "2.2"
   },
   {
-    "rank": 1441,
+    "rank": 1440,
     "name": "Instant Execution",
-    "link": "https://demonlist.org/classic/1441",
+    "link": "https://demonlist.org/classic/1440",
     "length": "1:18",
     "objects": 35471,
     "version": "2.1"
   },
   {
-    "rank": 1442,
+    "rank": 1441,
     "name": "Polish Alphabet",
-    "link": "https://demonlist.org/classic/1442",
+    "link": "https://demonlist.org/classic/1441",
     "length": "1:26",
     "objects": 105699,
     "version": "2.1"
   },
   {
-    "rank": 1443,
+    "rank": 1442,
     "name": "MasmeCrescent",
-    "link": "https://demonlist.org/classic/1443",
+    "link": "https://demonlist.org/classic/1442",
     "length": "1:54",
     "objects": 128481,
     "version": "2.2"
   },
   {
-    "rank": 1444,
+    "rank": 1443,
     "name": "Rinals",
-    "link": "https://demonlist.org/classic/1444",
+    "link": "https://demonlist.org/classic/1443",
     "length": "3:27",
     "objects": 179162,
     "version": "2.1"
   },
   {
-    "rank": 1445,
+    "rank": 1444,
     "name": "Eggo",
-    "link": "https://demonlist.org/classic/1445",
+    "link": "https://demonlist.org/classic/1444",
     "length": "1:08",
     "objects": 48392,
     "version": "2.1"
   },
   {
-    "rank": 1446,
+    "rank": 1445,
     "name": "DEAD OF NIGHT",
-    "link": "https://demonlist.org/classic/1446",
+    "link": "https://demonlist.org/classic/1445",
     "length": "0:47",
     "objects": 22998,
     "version": "2.2"
   },
   {
-    "rank": 1447,
+    "rank": 1446,
     "name": "The Depths Above",
-    "link": "https://demonlist.org/classic/1447",
+    "link": "https://demonlist.org/classic/1446",
     "length": "1:50",
     "objects": 76845,
     "version": "2.2"
   },
   {
-    "rank": 1448,
+    "rank": 1447,
     "name": "oGo",
-    "link": "https://demonlist.org/classic/1448",
+    "link": "https://demonlist.org/classic/1447",
     "length": "1:07",
     "objects": 94213,
     "version": "2.2"
   },
   {
-    "rank": 1449,
+    "rank": 1448,
     "name": "The Flawless",
-    "link": "https://demonlist.org/classic/1449",
+    "link": "https://demonlist.org/classic/1448",
     "length": "1:35",
     "objects": 29940,
     "version": "2.0"
   },
   {
-    "rank": 1450,
+    "rank": 1449,
     "name": "I Have Bonn Issue",
-    "link": "https://demonlist.org/classic/1450",
+    "link": "https://demonlist.org/classic/1449",
     "length": "0:44",
     "objects": 15848,
     "version": "2.1"
   },
   {
-    "rank": 1451,
+    "rank": 1450,
     "name": "Our Fountain",
-    "link": "https://demonlist.org/classic/1451",
+    "link": "https://demonlist.org/classic/1450",
     "length": "2:28",
     "objects": 168883,
     "version": "2.1"
   },
   {
-    "rank": 1452,
+    "rank": 1451,
     "name": "Uprise",
-    "link": "https://demonlist.org/classic/1452",
+    "link": "https://demonlist.org/classic/1451",
     "length": "1:21",
     "objects": 19189,
     "version": "2.1"
   },
   {
-    "rank": 1453,
+    "rank": 1452,
     "name": "Im Leaving",
-    "link": "https://demonlist.org/classic/1453",
+    "link": "https://demonlist.org/classic/1452",
     "length": "5:18",
     "objects": 173834,
     "version": "2.2"
   },
   {
-    "rank": 1454,
+    "rank": 1453,
     "name": "Nacreous Snowmelt",
-    "link": "https://demonlist.org/classic/1454",
+    "link": "https://demonlist.org/classic/1453",
     "length": "1:17",
     "objects": 52782,
     "version": "2.2"
   },
   {
-    "rank": 1455,
+    "rank": 1454,
     "name": "Redemption",
-    "link": "https://demonlist.org/classic/1455",
+    "link": "https://demonlist.org/classic/1454",
     "length": "2:01",
     "objects": 182404,
     "version": "2.1"
   },
   {
-    "rank": 1456,
+    "rank": 1455,
     "name": "Vignette",
-    "link": "https://demonlist.org/classic/1456",
+    "link": "https://demonlist.org/classic/1455",
     "length": "1:17",
     "objects": 224008,
     "version": "2.1"
   },
   {
-    "rank": 1457,
+    "rank": 1456,
     "name": "Allegiance",
-    "link": "https://demonlist.org/classic/1457",
+    "link": "https://demonlist.org/classic/1456",
     "length": "1:32",
     "objects": 62018,
     "version": "2.0"
   },
   {
-    "rank": 1458,
+    "rank": 1457,
     "name": "Unknown Civilization",
-    "link": "https://demonlist.org/classic/1458",
+    "link": "https://demonlist.org/classic/1457",
     "length": "1:08",
     "objects": 153475,
     "version": "2.1"
   },
   {
-    "rank": 1459,
+    "rank": 1458,
     "name": "SHURIMA",
-    "link": "https://demonlist.org/classic/1459",
+    "link": "https://demonlist.org/classic/1458",
     "length": "1:09",
     "objects": 26062,
     "version": "2.2"
   },
   {
-    "rank": 1460,
+    "rank": 1459,
     "name": "Extremoduro",
-    "link": "https://demonlist.org/classic/1460",
+    "link": "https://demonlist.org/classic/1459",
     "length": "1:20",
     "objects": 27521,
     "version": "2.2"
   },
   {
-    "rank": 1461,
+    "rank": 1460,
     "name": "Alcatraz",
-    "link": "https://demonlist.org/classic/1461",
+    "link": "https://demonlist.org/classic/1460",
     "length": "1:26",
     "objects": 95898,
     "version": "2.1"
   },
   {
-    "rank": 1462,
+    "rank": 1461,
     "name": "Liz",
-    "link": "https://demonlist.org/classic/1462",
+    "link": "https://demonlist.org/classic/1461",
     "length": "1:17",
     "objects": 39343,
     "version": "2.2"
   },
   {
-    "rank": 1463,
+    "rank": 1462,
     "name": "Code 69 DX",
-    "link": "https://demonlist.org/classic/1463",
+    "link": "https://demonlist.org/classic/1462",
     "length": "1:25",
     "objects": 43840,
     "version": "2.2"
   },
   {
-    "rank": 1464,
+    "rank": 1463,
     "name": "Terrifying Magmatism",
-    "link": "https://demonlist.org/classic/1464",
+    "link": "https://demonlist.org/classic/1463",
     "length": "1:03",
     "objects": 133441,
     "version": "2.1"
   },
   {
-    "rank": 1465,
+    "rank": 1464,
     "name": "Fun Friday",
-    "link": "https://demonlist.org/classic/1465",
+    "link": "https://demonlist.org/classic/1464",
     "length": "1:19",
     "objects": 24314,
     "version": "2.2"
   },
   {
-    "rank": 1466,
+    "rank": 1465,
     "name": "Artists VS TMNT",
-    "link": "https://demonlist.org/classic/1466",
+    "link": "https://demonlist.org/classic/1465",
     "length": "1:29",
     "objects": 112237,
     "version": "2.2"
   },
   {
-    "rank": 1467,
+    "rank": 1466,
     "name": "night party",
-    "link": "https://demonlist.org/classic/1467",
+    "link": "https://demonlist.org/classic/1466",
     "length": "2:03",
     "objects": 121983,
     "version": "2.1"
   },
   {
-    "rank": 1468,
+    "rank": 1467,
     "name": "Aksion",
-    "link": "https://demonlist.org/classic/1468",
+    "link": "https://demonlist.org/classic/1467",
     "length": "1:44",
     "objects": 125856,
     "version": "2.2"
   },
   {
-    "rank": 1469,
+    "rank": 1468,
     "name": "Empanadas Fugaces",
-    "link": "https://demonlist.org/classic/1469",
+    "link": "https://demonlist.org/classic/1468",
     "length": "1:34",
     "objects": 136970,
     "version": "2.1"
   },
   {
-    "rank": 1470,
+    "rank": 1469,
     "name": "Place",
-    "link": "https://demonlist.org/classic/1470",
+    "link": "https://demonlist.org/classic/1469",
     "length": "4:10",
     "objects": 117301,
     "version": "2.1"
   },
   {
-    "rank": 1471,
+    "rank": 1470,
     "name": "GLISTEN",
-    "link": "https://demonlist.org/classic/1471",
+    "link": "https://demonlist.org/classic/1470",
     "length": "0:51",
     "objects": 25914,
     "version": "2.1"
   },
   {
-    "rank": 1472,
+    "rank": 1471,
     "name": "Just DANCE",
-    "link": "https://demonlist.org/classic/1472",
+    "link": "https://demonlist.org/classic/1471",
     "length": "1:19",
     "objects": 96731,
     "version": "2.1"
   },
   {
-    "rank": 1473,
+    "rank": 1472,
     "name": "The Winged Sword",
-    "link": "https://demonlist.org/classic/1473",
+    "link": "https://demonlist.org/classic/1472",
     "length": "1:04",
     "objects": 45796,
     "version": "2.2"
   },
   {
-    "rank": 1474,
+    "rank": 1473,
     "name": "Incipient",
-    "link": "https://demonlist.org/classic/1474",
+    "link": "https://demonlist.org/classic/1473",
     "length": "1:47",
     "objects": 64537,
     "version": "2.1"
   },
   {
-    "rank": 1475,
+    "rank": 1474,
     "name": "August Finale",
-    "link": "https://demonlist.org/classic/1475",
+    "link": "https://demonlist.org/classic/1474",
     "length": "1:46",
     "objects": 49000,
     "version": "2.2"
   },
   {
-    "rank": 1476,
+    "rank": 1475,
     "name": "Explosion",
-    "link": "https://demonlist.org/classic/1476",
+    "link": "https://demonlist.org/classic/1475",
     "length": "2:00",
     "objects": 35611,
     "version": "2.1"
   },
   {
-    "rank": 1477,
+    "rank": 1476,
     "name": "Castling",
-    "link": "https://demonlist.org/classic/1477",
+    "link": "https://demonlist.org/classic/1476",
     "length": "1:17",
     "objects": 44325,
     "version": "2.1"
   },
   {
-    "rank": 1478,
+    "rank": 1477,
     "name": "Outside Eyesight",
-    "link": "https://demonlist.org/classic/1478",
+    "link": "https://demonlist.org/classic/1477",
     "length": "1:16",
     "objects": 34626,
     "version": "2.2"
   },
   {
-    "rank": 1479,
+    "rank": 1478,
     "name": "Stormy Landscape",
-    "link": "https://demonlist.org/classic/1479",
+    "link": "https://demonlist.org/classic/1478",
     "length": "1:23",
     "objects": 91970,
     "version": "2.1"
   },
   {
-    "rank": 1480,
+    "rank": 1479,
     "name": "V O L L E Y",
-    "link": "https://demonlist.org/classic/1480",
+    "link": "https://demonlist.org/classic/1479",
     "length": "1:17",
     "objects": 54017,
     "version": "2.2"
   },
   {
-    "rank": 1481,
+    "rank": 1480,
     "name": "Mechanical Fracture",
-    "link": "https://demonlist.org/classic/1481",
+    "link": "https://demonlist.org/classic/1480",
     "length": "1:33",
     "objects": 69351,
     "version": "2.1"
   },
   {
-    "rank": 1482,
+    "rank": 1481,
     "name": "Shimmering Chamber",
-    "link": "https://demonlist.org/classic/1482",
+    "link": "https://demonlist.org/classic/1481",
     "length": "1:03",
     "objects": 32062,
     "version": "2.1"
   },
   {
-    "rank": 1483,
+    "rank": 1482,
     "name": "Clock tower",
-    "link": "https://demonlist.org/classic/1483",
+    "link": "https://demonlist.org/classic/1482",
     "length": "1:18",
     "objects": 113327,
     "version": "2.2"
   },
   {
-    "rank": 1484,
+    "rank": 1483,
     "name": "Lights Out",
-    "link": "https://demonlist.org/classic/1484",
+    "link": "https://demonlist.org/classic/1483",
     "length": "1:07",
     "objects": 134138,
     "version": "2.1"
   },
   {
-    "rank": 1485,
+    "rank": 1484,
     "name": "The Lost Existence",
-    "link": "https://demonlist.org/classic/1485",
+    "link": "https://demonlist.org/classic/1484",
     "length": "5:23",
     "objects": 31487,
     "version": "2.1"
   },
   {
-    "rank": 1486,
+    "rank": 1485,
     "name": "BLACKLIGHTS",
-    "link": "https://demonlist.org/classic/1486",
+    "link": "https://demonlist.org/classic/1485",
     "length": "0:52",
     "objects": 37800,
     "version": "2.1"
   },
   {
-    "rank": 1487,
+    "rank": 1486,
     "name": "HyperSonic",
-    "link": "https://demonlist.org/classic/1487",
+    "link": "https://demonlist.org/classic/1486",
     "length": "1:56",
     "objects": 71356,
     "version": "2.1"
   },
   {
-    "rank": 1488,
+    "rank": 1487,
     "name": "EdenCity",
-    "link": "https://demonlist.org/classic/1488",
+    "link": "https://demonlist.org/classic/1487",
     "length": "1:40",
     "objects": 109873,
     "version": "2.1"
   },
   {
-    "rank": 1489,
+    "rank": 1488,
     "name": "squeak",
-    "link": "https://demonlist.org/classic/1489",
+    "link": "https://demonlist.org/classic/1488",
     "length": "1:18",
     "objects": 33450,
     "version": "2.2"
   },
   {
-    "rank": 1490,
+    "rank": 1489,
     "name": "ONVIL FACTORY",
-    "link": "https://demonlist.org/classic/1490",
+    "link": "https://demonlist.org/classic/1489",
     "length": "1:00",
     "objects": 42092,
     "version": "2.2"
   },
   {
-    "rank": 1491,
+    "rank": 1490,
     "name": "Crash Station",
-    "link": "https://demonlist.org/classic/1491",
+    "link": "https://demonlist.org/classic/1490",
     "length": "0:48",
     "objects": 29753,
     "version": "2.2"
   },
   {
-    "rank": 1492,
+    "rank": 1491,
     "name": "phantasmagoria",
-    "link": "https://demonlist.org/classic/1492",
+    "link": "https://demonlist.org/classic/1491",
     "length": "0:42",
     "objects": 32173,
     "version": "2.1"
   },
   {
-    "rank": 1493,
+    "rank": 1492,
     "name": "Fallen Horizon",
-    "link": "https://demonlist.org/classic/1493",
+    "link": "https://demonlist.org/classic/1492",
     "length": "1:02",
     "objects": 50211,
     "version": "2.2"
   },
   {
-    "rank": 1494,
+    "rank": 1493,
     "name": "Disruption",
-    "link": "https://demonlist.org/classic/1494",
+    "link": "https://demonlist.org/classic/1493",
     "length": "0:55",
     "objects": 75562,
     "version": "2.1"
   },
   {
-    "rank": 1495,
+    "rank": 1494,
     "name": "HeatSeeker",
-    "link": "https://demonlist.org/classic/1495",
+    "link": "https://demonlist.org/classic/1494",
     "length": "1:17",
     "objects": 59395,
     "version": "2.2"
   },
   {
-    "rank": 1496,
+    "rank": 1495,
     "name": "aether",
-    "link": "https://demonlist.org/classic/1496",
+    "link": "https://demonlist.org/classic/1495",
     "length": "1:17",
     "objects": 196506,
     "version": "2.1"
   },
   {
-    "rank": 1497,
+    "rank": 1496,
     "name": "Daybreak",
-    "link": "https://demonlist.org/classic/1497",
+    "link": "https://demonlist.org/classic/1496",
     "length": "1:46",
     "objects": 37024,
     "version": "2.1"
   },
   {
-    "rank": 1498,
+    "rank": 1497,
     "name": "Blacklights",
-    "link": "https://demonlist.org/classic/1498",
+    "link": "https://demonlist.org/classic/1497",
     "length": "0:57",
     "objects": 34876,
     "version": "2.1"
   },
   {
-    "rank": 1499,
+    "rank": 1498,
     "name": "Stop Breathing",
-    "link": "https://demonlist.org/classic/1499",
+    "link": "https://demonlist.org/classic/1498",
     "length": "1:06",
     "objects": 60000,
     "version": "2.2"
   },
   {
-    "rank": 1500,
+    "rank": 1499,
     "name": "Maths",
-    "link": "https://demonlist.org/classic/1500",
+    "link": "https://demonlist.org/classic/1499",
     "length": "1:15",
     "objects": 63682,
     "version": "2.2"
   },
   {
-    "rank": 1501,
+    "rank": 1500,
     "name": "Fexty auto",
-    "link": "https://demonlist.org/classic/1501",
+    "link": "https://demonlist.org/classic/1500",
     "length": "1:00",
     "objects": 20263,
     "version": "2.2"
   },
   {
-    "rank": 1502,
+    "rank": 1501,
     "name": "Robi",
-    "link": "https://demonlist.org/classic/1502",
+    "link": "https://demonlist.org/classic/1501",
     "length": "1:00",
     "objects": 31754,
     "version": "2.1"
   },
   {
-    "rank": 1503,
+    "rank": 1502,
     "name": "robotchief exposal",
-    "link": "https://demonlist.org/classic/1503",
+    "link": "https://demonlist.org/classic/1502",
     "length": "1:09",
     "objects": 39400,
     "version": "2.1"
   },
   {
-    "rank": 1504,
+    "rank": 1503,
     "name": "Monitor",
-    "link": "https://demonlist.org/classic/1504",
+    "link": "https://demonlist.org/classic/1503",
     "length": "3:12",
     "objects": 54471,
     "version": "2.2"
   },
   {
-    "rank": 1505,
+    "rank": 1504,
     "name": "The Ultimate Demon",
-    "link": "https://demonlist.org/classic/1505",
+    "link": "https://demonlist.org/classic/1504",
     "length": "1:05",
     "objects": 60883,
     "version": "2.1"
   },
   {
-    "rank": 1506,
+    "rank": 1505,
     "name": "MELTDOWN",
-    "link": "https://demonlist.org/classic/1506",
+    "link": "https://demonlist.org/classic/1505",
     "length": "1:25",
     "objects": 66601,
     "version": "2.1"
   },
   {
-    "rank": 1507,
+    "rank": 1506,
     "name": "Hidden in the Sand",
-    "link": "https://demonlist.org/classic/1507",
+    "link": "https://demonlist.org/classic/1506",
     "length": "1:06",
     "objects": 37637,
     "version": "2.1"
   },
   {
-    "rank": 1508,
+    "rank": 1507,
     "name": "eclipse",
-    "link": "https://demonlist.org/classic/1508",
+    "link": "https://demonlist.org/classic/1507",
     "length": "1:08",
     "objects": 114268,
     "version": "2.2"
   },
   {
-    "rank": 1509,
+    "rank": 1508,
     "name": "Bored Walk",
-    "link": "https://demonlist.org/classic/1509",
+    "link": "https://demonlist.org/classic/1508",
     "length": "1:27",
     "objects": 36036,
     "version": "2.2"
   },
   {
-    "rank": 1510,
+    "rank": 1509,
     "name": "Back on Track",
-    "link": "https://demonlist.org/classic/1510",
+    "link": "https://demonlist.org/classic/1509",
     "length": "2:27",
     "objects": 134226,
     "version": "2.2"
   },
   {
-    "rank": 1511,
+    "rank": 1510,
     "name": "8o X",
-    "link": "https://demonlist.org/classic/1511",
+    "link": "https://demonlist.org/classic/1510",
     "length": "1:29",
     "objects": 126091,
     "version": "2.1"
   },
   {
-    "rank": 1512,
+    "rank": 1511,
     "name": "Sweater Weather",
-    "link": "https://demonlist.org/classic/1512",
+    "link": "https://demonlist.org/classic/1511",
     "length": "1:05",
     "objects": 39562,
     "version": "2.2"
   },
   {
-    "rank": 1513,
+    "rank": 1512,
     "name": "Vanish",
-    "link": "https://demonlist.org/classic/1513",
+    "link": "https://demonlist.org/classic/1512",
     "length": "1:48",
     "objects": 185654,
     "version": "2.2"
   },
   {
-    "rank": 1514,
+    "rank": 1513,
     "name": "Morpheus",
-    "link": "https://demonlist.org/classic/1514",
+    "link": "https://demonlist.org/classic/1513",
     "length": "1:31",
     "objects": 38932,
     "version": "2.2"
   },
   {
-    "rank": 1515,
+    "rank": 1514,
     "name": "Supernova",
-    "link": "https://demonlist.org/classic/1515",
+    "link": "https://demonlist.org/classic/1514",
     "length": "1:12",
     "objects": 26277,
     "version": "2.2"
   },
   {
-    "rank": 1516,
+    "rank": 1515,
     "name": "Aurora",
-    "link": "https://demonlist.org/classic/1516",
+    "link": "https://demonlist.org/classic/1515",
     "length": "1:51",
     "objects": 50370,
     "version": "2.2"
   },
   {
-    "rank": 1517,
+    "rank": 1516,
     "name": "Pro Lov Ad",
-    "link": "https://demonlist.org/classic/1517",
+    "link": "https://demonlist.org/classic/1516",
     "length": "5:49",
     "objects": 139404,
     "version": "2.2"
   },
   {
-    "rank": 1518,
+    "rank": 1517,
     "name": "El Dorado Rebirth",
-    "link": "https://demonlist.org/classic/1518",
+    "link": "https://demonlist.org/classic/1517",
     "length": "1:12",
     "objects": 62622,
     "version": "2.1"
   },
   {
-    "rank": 1519,
+    "rank": 1518,
     "name": "niflhel",
-    "link": "https://demonlist.org/classic/1519",
+    "link": "https://demonlist.org/classic/1518",
     "length": "1:44",
     "objects": 112456,
     "version": "2.1"
   },
   {
-    "rank": 1520,
+    "rank": 1519,
     "name": "Pentakill",
-    "link": "https://demonlist.org/classic/1520",
+    "link": "https://demonlist.org/classic/1519",
     "length": "1:01",
     "objects": 25887,
     "version": "2.1"
   },
   {
-    "rank": 1521,
+    "rank": 1520,
     "name": "Ferrum Frenzy",
-    "link": "https://demonlist.org/classic/1521",
+    "link": "https://demonlist.org/classic/1520",
     "length": "2:49",
     "objects": 243706,
     "version": "2.1"
   },
   {
-    "rank": 1522,
+    "rank": 1521,
     "name": "verisimilitude",
-    "link": "https://demonlist.org/classic/1522",
+    "link": "https://demonlist.org/classic/1521",
     "length": "0:56",
     "objects": 31873,
     "version": "2.1"
   },
   {
-    "rank": 1523,
+    "rank": 1522,
     "name": "Bangarang",
-    "link": "https://demonlist.org/classic/1523",
+    "link": "https://demonlist.org/classic/1522",
     "length": "1:30",
     "objects": 272655,
     "version": "2.2"
   },
   {
-    "rank": 1524,
+    "rank": 1523,
     "name": "AcropoliX",
-    "link": "https://demonlist.org/classic/1524",
+    "link": "https://demonlist.org/classic/1523",
     "length": "0:58",
     "objects": 9338,
     "version": "2.0"
   },
   {
-    "rank": 1525,
+    "rank": 1524,
     "name": "Experiment",
-    "link": "https://demonlist.org/classic/1525",
+    "link": "https://demonlist.org/classic/1524",
     "length": "1:19",
     "objects": 72023,
     "version": "2.2"
   },
   {
-    "rank": 1526,
+    "rank": 1525,
     "name": "Penumbra",
-    "link": "https://demonlist.org/classic/1526",
+    "link": "https://demonlist.org/classic/1525",
     "length": "1:42",
     "objects": 199990,
     "version": "2.1"
   },
   {
-    "rank": 1527,
+    "rank": 1526,
     "name": "IDOL19",
-    "link": "https://demonlist.org/classic/1527",
+    "link": "https://demonlist.org/classic/1526",
     "length": "3:49",
     "objects": 180857,
     "version": "2.1"
   },
   {
-    "rank": 1528,
+    "rank": 1527,
     "name": "Cosmorush 21",
-    "link": "https://demonlist.org/classic/1528",
+    "link": "https://demonlist.org/classic/1527",
     "length": "1:18",
     "objects": 43711,
     "version": "2.1"
   },
   {
-    "rank": 1529,
+    "rank": 1528,
     "name": "Wintertime",
-    "link": "https://demonlist.org/classic/1529",
+    "link": "https://demonlist.org/classic/1528",
     "length": "3:19",
     "objects": 313866,
     "version": "2.1"
   },
   {
-    "rank": 1530,
+    "rank": 1529,
     "name": "Declassification",
-    "link": "https://demonlist.org/classic/1530",
+    "link": "https://demonlist.org/classic/1529",
     "length": "1:13",
     "objects": 84871,
     "version": "2.2"
   },
   {
-    "rank": 1531,
+    "rank": 1530,
     "name": "tran la luot",
-    "link": "https://demonlist.org/classic/1531",
+    "link": "https://demonlist.org/classic/1530",
     "length": "1:04",
     "objects": 17188,
     "version": "2.2"
   },
   {
-    "rank": 1532,
+    "rank": 1531,
     "name": "Realtered",
-    "link": "https://demonlist.org/classic/1532",
+    "link": "https://demonlist.org/classic/1531",
     "length": "1:04",
     "objects": 55276,
     "version": "2.1"
   },
   {
-    "rank": 1533,
+    "rank": 1532,
     "name": "Boreas",
-    "link": "https://demonlist.org/classic/1533",
+    "link": "https://demonlist.org/classic/1532",
     "length": "1:41",
     "objects": 125134,
     "version": "2.2"
   },
   {
-    "rank": 1534,
+    "rank": 1533,
     "name": "Forbidden Isle",
-    "link": "https://demonlist.org/classic/1534",
+    "link": "https://demonlist.org/classic/1533",
     "length": "1:10",
     "objects": 40027,
     "version": "2.1"
   },
   {
-    "rank": 1535,
+    "rank": 1534,
     "name": "Forte Mezzo",
-    "link": "https://demonlist.org/classic/1535",
+    "link": "https://demonlist.org/classic/1534",
     "length": "1:01",
     "objects": 79622,
     "version": "2.2"
   },
   {
-    "rank": 1536,
+    "rank": 1535,
     "name": "MASKED",
-    "link": "https://demonlist.org/classic/1536",
+    "link": "https://demonlist.org/classic/1535",
     "length": "1:00",
     "objects": 13555,
     "version": "2.2"
   },
   {
-    "rank": 1537,
+    "rank": 1536,
     "name": "Northern Essence",
-    "link": "https://demonlist.org/classic/1537",
+    "link": "https://demonlist.org/classic/1536",
     "length": "1:20",
     "objects": 65535,
     "version": "2.2"
   },
   {
-    "rank": 1538,
+    "rank": 1537,
     "name": "TerrorCore",
-    "link": "https://demonlist.org/classic/1538",
+    "link": "https://demonlist.org/classic/1537",
     "length": "1:08",
     "objects": 118854,
     "version": "2.1"
   },
   {
-    "rank": 1539,
+    "rank": 1538,
     "name": "FinKor",
-    "link": "https://demonlist.org/classic/1539",
+    "link": "https://demonlist.org/classic/1538",
     "length": "2:58",
     "objects": 202464,
     "version": "2.1"
   },
   {
-    "rank": 1540,
+    "rank": 1539,
     "name": "Hyperion",
-    "link": "https://demonlist.org/classic/1540",
+    "link": "https://demonlist.org/classic/1539",
     "length": "1:18",
     "objects": 77608,
     "version": "2.2"
   },
   {
-    "rank": 1541,
+    "rank": 1540,
     "name": "Reunite",
-    "link": "https://demonlist.org/classic/1541",
+    "link": "https://demonlist.org/classic/1540",
     "length": "2:07",
     "objects": 89211,
     "version": "2.1"
   },
   {
-    "rank": 1542,
+    "rank": 1541,
     "name": "Make it funky",
-    "link": "https://demonlist.org/classic/1542",
+    "link": "https://demonlist.org/classic/1541",
     "length": "1:16",
     "objects": 64708,
     "version": "2.2"
   },
   {
-    "rank": 1543,
+    "rank": 1542,
     "name": "Ancient Travel",
-    "link": "https://demonlist.org/classic/1543",
+    "link": "https://demonlist.org/classic/1542",
     "length": "4:46",
     "objects": 55993,
     "version": "2.1"
   },
   {
-    "rank": 1544,
+    "rank": 1543,
     "name": "Dark Odyssey",
-    "link": "https://demonlist.org/classic/1544",
+    "link": "https://demonlist.org/classic/1543",
     "length": "6:15",
     "objects": 311900,
     "version": "2.1"
   },
   {
-    "rank": 1545,
+    "rank": 1544,
     "name": "it back",
-    "link": "https://demonlist.org/classic/1545",
+    "link": "https://demonlist.org/classic/1544",
     "length": "2:09",
     "objects": 40000,
     "version": "2.2"
   },
   {
-    "rank": 1546,
+    "rank": 1545,
     "name": "STAGER ALWAYS CLEAR",
-    "link": "https://demonlist.org/classic/1546"
+    "link": "https://demonlist.org/classic/1545",
+    "length": "0:54",
+    "objects": 37593,
+    "version": "2.2"
   },
   {
-    "rank": 1547,
+    "rank": 1546,
     "name": "Brimtanic Paradise",
-    "link": "https://demonlist.org/classic/1547",
+    "link": "https://demonlist.org/classic/1546",
     "length": "2:14",
     "objects": 155706,
     "version": "2.1"
   },
   {
-    "rank": 1548,
+    "rank": 1547,
     "name": "Jumping Demons",
-    "link": "https://demonlist.org/classic/1548",
+    "link": "https://demonlist.org/classic/1547",
     "length": "1:54",
     "objects": 252197,
     "version": "2.2"
   },
   {
-    "rank": 1549,
+    "rank": 1548,
     "name": "4 Matilda",
-    "link": "https://demonlist.org/classic/1549",
+    "link": "https://demonlist.org/classic/1548",
     "length": "1:30",
     "objects": 112308,
     "version": "2.1"
   },
   {
-    "rank": 1550,
+    "rank": 1549,
     "name": "Me Lin A",
-    "link": "https://demonlist.org/classic/1550",
+    "link": "https://demonlist.org/classic/1549",
     "length": "1:08",
     "objects": 110919,
     "version": "2.1"
   },
   {
-    "rank": 1551,
+    "rank": 1550,
     "name": "Aoreta",
-    "link": "https://demonlist.org/classic/1551",
+    "link": "https://demonlist.org/classic/1550",
     "length": "1:00",
     "objects": 83773,
     "version": "2.2"
   },
   {
-    "rank": 1552,
+    "rank": 1551,
     "name": "Cataclysm",
-    "link": "https://demonlist.org/classic/1552",
+    "link": "https://demonlist.org/classic/1551",
     "length": "1:27",
     "objects": 15216,
     "version": "1.9"
   },
   {
-    "rank": 1553,
+    "rank": 1552,
     "name": "Ephemeral Dream",
-    "link": "https://demonlist.org/classic/1553",
+    "link": "https://demonlist.org/classic/1552",
     "length": "1:11",
     "objects": 20000,
     "version": "2.2"
   },
   {
-    "rank": 1554,
+    "rank": 1553,
     "name": "Cognitive Capacity",
-    "link": "https://demonlist.org/classic/1554",
+    "link": "https://demonlist.org/classic/1553",
     "length": "1:39",
     "objects": 60175,
     "version": "2.2"
   },
   {
-    "rank": 1555,
+    "rank": 1554,
     "name": "Obscura",
-    "link": "https://demonlist.org/classic/1555",
+    "link": "https://demonlist.org/classic/1554",
     "length": "1:30",
     "objects": 157102,
     "version": "2.1"
   },
   {
-    "rank": 1556,
+    "rank": 1555,
     "name": "Polarity",
-    "link": "https://demonlist.org/classic/1556",
+    "link": "https://demonlist.org/classic/1555",
     "length": "1:35",
     "objects": 17339,
     "version": "2.2"
   },
   {
-    "rank": 1557,
+    "rank": 1556,
     "name": "Penombre",
-    "link": "https://demonlist.org/classic/1557",
+    "link": "https://demonlist.org/classic/1556",
     "length": "1:05",
     "objects": 62034,
     "version": "2.1"
   },
   {
-    "rank": 1558,
+    "rank": 1557,
     "name": "ANNIHILATED",
-    "link": "https://demonlist.org/classic/1558",
+    "link": "https://demonlist.org/classic/1557",
     "length": "2:29",
     "objects": 103747,
     "version": "2.2"
   },
   {
-    "rank": 1559,
+    "rank": 1558,
     "name": "polychrome",
-    "link": "https://demonlist.org/classic/1559",
+    "link": "https://demonlist.org/classic/1558",
     "length": "1:08",
     "objects": 36803,
     "version": "2.2"
   },
   {
-    "rank": 1560,
+    "rank": 1559,
     "name": "STRATUS",
-    "link": "https://demonlist.org/classic/1560",
+    "link": "https://demonlist.org/classic/1559",
     "length": "1:46",
     "objects": 149464,
     "version": "2.2"
   },
   {
-    "rank": 1561,
+    "rank": 1560,
     "name": "Misery Loves",
-    "link": "https://demonlist.org/classic/1561",
+    "link": "https://demonlist.org/classic/1560",
     "length": "1:48",
     "objects": 50651,
     "version": "2.2"
   },
   {
-    "rank": 1562,
+    "rank": 1561,
     "name": "Torgue",
-    "link": "https://demonlist.org/classic/1562",
+    "link": "https://demonlist.org/classic/1561",
     "length": "1:31",
     "objects": 92929,
     "version": "2.1"
   },
   {
-    "rank": 1563,
+    "rank": 1562,
     "name": "niwa",
-    "link": "https://demonlist.org/classic/1563",
+    "link": "https://demonlist.org/classic/1562",
     "length": "1:03",
     "objects": 151728,
     "version": "2.1"
   },
   {
-    "rank": 1564,
+    "rank": 1563,
     "name": "Snowdrift",
-    "link": "https://demonlist.org/classic/1564",
+    "link": "https://demonlist.org/classic/1563",
     "length": "1:03",
     "objects": 68210,
     "version": "2.1"
+  },
+  {
+    "rank": 1564,
+    "name": "UNLEASH WHALE WHALES",
+    "link": "https://demonlist.org/classic/1564",
+    "length": "1:53",
+    "objects": 95716,
+    "version": "2.2"
   },
   {
     "rank": 1565,
