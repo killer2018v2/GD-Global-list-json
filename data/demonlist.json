@@ -12098,7 +12098,10 @@
   {
     "rank": 1513,
     "name": "Vanish",
-    "link": "https://demonlist.org/classic/1513"
+    "link": "https://demonlist.org/classic/1513",
+    "length": "1:48",
+    "objects": 185654,
+    "version": "2.2"
   },
   {
     "rank": 1514,
