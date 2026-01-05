@@ -29,7 +29,7 @@
     "link": "https://demonlist.org/classic/4",
     "length": "3:01",
     "objects": 255394,
-    "version": "2.1"
+    "version": "2.2"
   },
   {
     "rank": 5,
@@ -133,7 +133,7 @@
     "link": "https://demonlist.org/classic/17",
     "length": "2:05",
     "objects": 113310,
-    "version": "2.1"
+    "version": "2.2"
   },
   {
     "rank": 18,
@@ -141,30 +141,30 @@
     "link": "https://demonlist.org/classic/18",
     "length": "1:07",
     "objects": 47970,
-    "version": "2.1"
+    "version": "2.2"
   },
   {
     "rank": 19,
-    "name": "Subterminal Point",
+    "name": "Defeated Circles",
     "link": "https://demonlist.org/classic/19",
+    "length": "1:00",
+    "objects": 84298,
+    "version": "2.2"
+  },
+  {
+    "rank": 20,
+    "name": "Subterminal Point",
+    "link": "https://demonlist.org/classic/20",
     "length": "1:10",
     "objects": 40970,
     "version": "2.2"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "name": "Tunnel of Despair",
-    "link": "https://demonlist.org/classic/20",
+    "link": "https://demonlist.org/classic/21",
     "length": "1:44",
     "objects": 75308,
-    "version": "2.1"
-  },
-  {
-    "rank": 21,
-    "name": "Defeated Circles",
-    "link": "https://demonlist.org/classic/21",
-    "length": "1:00",
-    "objects": 84298,
     "version": "2.2"
   },
   {
@@ -173,7 +173,7 @@
     "link": "https://demonlist.org/classic/22",
     "length": "1:38",
     "objects": 220723,
-    "version": "2.1"
+    "version": "2.2"
   },
   {
     "rank": 23,
@@ -181,7 +181,7 @@
     "link": "https://demonlist.org/classic/23",
     "length": "1:10",
     "objects": 147393,
-    "version": "2.1"
+    "version": "2.2"
   },
   {
     "rank": 24,
@@ -233,50 +233,50 @@
   },
   {
     "rank": 30,
-    "name": "Firework",
+    "name": "Eyes in the Water",
     "link": "https://demonlist.org/classic/30",
-    "length": "2:07",
-    "objects": 165198,
+    "length": "1:32",
+    "objects": 91440,
     "version": "2.1"
   },
   {
     "rank": 31,
-    "name": "Sakupen Circles",
+    "name": "Firework",
     "link": "https://demonlist.org/classic/31",
+    "length": "2:07",
+    "objects": 165198,
+    "version": "2.2"
+  },
+  {
+    "rank": 32,
+    "name": "Sakupen Circles",
+    "link": "https://demonlist.org/classic/32",
     "length": "0:51",
     "objects": 73080,
     "version": "2.1"
   },
   {
-    "rank": 32,
+    "rank": 33,
     "name": "Silentlocked",
-    "link": "https://demonlist.org/classic/32",
+    "link": "https://demonlist.org/classic/33",
     "length": "1:48",
     "objects": 65535,
     "version": "2.2"
   },
   {
-    "rank": 33,
+    "rank": 34,
     "name": "Through The Gates",
-    "link": "https://demonlist.org/classic/33",
+    "link": "https://demonlist.org/classic/34",
     "length": "1:38",
     "objects": 78685,
     "version": "2.1"
   },
   {
-    "rank": 34,
+    "rank": 35,
     "name": "poocubed",
-    "link": "https://demonlist.org/classic/34",
+    "link": "https://demonlist.org/classic/35",
     "length": "1:22",
     "objects": 105865,
-    "version": "2.1"
-  },
-  {
-    "rank": 35,
-    "name": "Eyes in the Water",
-    "link": "https://demonlist.org/classic/35",
-    "length": "1:32",
-    "objects": 91440,
     "version": "2.1"
   },
   {
@@ -781,7 +781,7 @@
     "link": "https://demonlist.org/classic/98",
     "length": "1:08",
     "objects": 79591,
-    "version": "2.1"
+    "version": "2.2"
   },
   {
     "rank": 99,
@@ -949,7 +949,7 @@
     "link": "https://demonlist.org/classic/119",
     "length": "1:37",
     "objects": 62064,
-    "version": "2.1"
+    "version": "2.2"
   },
   {
     "rank": 120,
