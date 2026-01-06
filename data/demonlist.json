@@ -189,7 +189,7 @@
     "link": "https://demonlist.org/classic/24",
     "length": "2:57",
     "objects": 157680,
-    "version": "2.1"
+    "version": "2.2"
   },
   {
     "rank": 25,
@@ -197,7 +197,7 @@
     "link": "https://demonlist.org/classic/25",
     "length": "1:29",
     "objects": 158706,
-    "version": "2.1"
+    "version": "2.2"
   },
   {
     "rank": 26,
@@ -213,7 +213,7 @@
     "link": "https://demonlist.org/classic/27",
     "length": "1:37",
     "objects": 44706,
-    "version": "2.1"
+    "version": "2.2"
   },
   {
     "rank": 28,
@@ -237,7 +237,7 @@
     "link": "https://demonlist.org/classic/30",
     "length": "1:32",
     "objects": 91440,
-    "version": "2.1"
+    "version": "2.2"
   },
   {
     "rank": 31,
@@ -269,7 +269,7 @@
     "link": "https://demonlist.org/classic/34",
     "length": "1:38",
     "objects": 78685,
-    "version": "2.1"
+    "version": "2.2"
   },
   {
     "rank": 35,
@@ -277,7 +277,7 @@
     "link": "https://demonlist.org/classic/35",
     "length": "1:22",
     "objects": 105865,
-    "version": "2.1"
+    "version": "2.2"
   },
   {
     "rank": 36,
@@ -1868,7 +1868,7 @@
     "name": "Elbus",
     "link": "https://demonlist.org/classic/234",
     "length": "1:46",
-    "objects": 89808,
+    "objects": 89883,
     "version": "2.2"
   },
   {
@@ -4009,10 +4009,10 @@
   },
   {
     "rank": 502,
-    "name": "RIOT for caua",
+    "name": "RIOT for kawa",
     "link": "https://demonlist.org/classic/502",
     "length": "1:01",
-    "objects": 90797,
+    "objects": 90801,
     "version": "2.2"
   },
   {
@@ -6700,7 +6700,7 @@
     "name": "come as you are",
     "link": "https://demonlist.org/classic/838",
     "length": "0:51",
-    "objects": 41303,
+    "objects": 37498,
     "version": "2.2"
   },
   {
@@ -8580,8 +8580,8 @@
     "name": "Cloud Citadel",
     "link": "https://demonlist.org/classic/1073",
     "length": "1:01",
-    "objects": 84484,
-    "version": "2.1"
+    "objects": 84586,
+    "version": "2.2"
   },
   {
     "rank": 1074,
